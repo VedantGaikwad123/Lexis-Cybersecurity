@@ -32,31 +32,31 @@ for FILE in $STAGED_FILES; do
     esac
 
     # Check for OpenAI Keys
-    if git diff --cached "$FILE" | grep -E -q "$OPENAI_PATTERN"; then
+    if git diff --cached "$FILE" | grep -E -q -- "$OPENAI_PATTERN"; then
         echo "[ERROR] Secret leak detected in '$FILE': Exposed OpenAI API key pattern."
         FOUND_SECRET=1
     fi
 
     # Check for AWS Key IDs
-    if git diff --cached "$FILE" | grep -E -q "$AWS_KEY_PATTERN"; then
+    if git diff --cached "$FILE" | grep -E -q -- "$AWS_KEY_PATTERN"; then
         echo "[ERROR] Secret leak detected in '$FILE': Exposed AWS Access Key ID."
         FOUND_SECRET=1
     fi
 
     # Check for GitHub Tokens
-    if git diff --cached "$FILE" | grep -E -q "$GITHUB_TOKEN_PATTERN"; then
+    if git diff --cached "$FILE" | grep -E -q -- "$GITHUB_TOKEN_PATTERN"; then
         echo "[ERROR] Secret leak detected in '$FILE': Exposed GitHub Personal Access Token."
         FOUND_SECRET=1
     fi
 
     # Check for Google API Keys
-    if git diff --cached "$FILE" | grep -E -q "$GOOGLE_KEY_PATTERN"; then
+    if git diff --cached "$FILE" | grep -E -q -- "$GOOGLE_KEY_PATTERN"; then
         echo "[ERROR] Secret leak detected in '$FILE': Exposed Google API Key."
         FOUND_SECRET=1
     fi
 
     # Check for Private Keys
-    if git diff --cached "$FILE" | grep -E -q "$PRIVATE_KEY_PATTERN"; then
+    if git diff --cached "$FILE" | grep -E -q -- "$PRIVATE_KEY_PATTERN"; then
         echo "[ERROR] Secret leak detected in '$FILE': Exposed Private Key header."
         FOUND_SECRET=1
     fi
