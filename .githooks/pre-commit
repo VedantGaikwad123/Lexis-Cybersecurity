@@ -1,0 +1,74 @@
+#!/usr/bin/env sh
+# ==============================================================================
+# LEXIS Pre-Commit Secret Scanner Git Hook
+# Prevents commits containing credentials, API keys, or private key blocks.
+# ==============================================================================
+
+echo "[SECURITY CHECK] Scanning staged files for hardcoded secrets and credentials..."
+
+# List of regex patterns for secret matching
+OPENAI_PATTERN="sk-[a-zA-Z0-9]{20,}"
+AWS_KEY_PATTERN="AKIA[0-9A-Z]{16}"
+GITHUB_TOKEN_PATTERN="(ghp_[a-zA-Z0-9]{36}|github_pat_[a-zA-Z0-9_]{60,})"
+GOOGLE_KEY_PATTERN="AIzaSy[a-zA-Z0-9_-]{33}"
+PRIVATE_KEY_PATTERN="-----BEGIN (RSA|EC|DSA|OPENSSH|PGP) PRIVATE KEY-----"
+JWT_TOKEN_PATTERN="eyJhYmdjZXJ0aWZpY2F0ZSI6|eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+
+STAGED_FILES=$(git diff --cached --name-only --diff-filter=ACM)
+
+if [ -z "$STAGED_FILES" ]; then
+    echo "[SECURITY CHECK] No staged files to scan."
+    exit 0
+fi
+
+FOUND_SECRET=0
+
+for FILE in $STAGED_FILES; do
+    # Skip example files and gitignore
+    case "$FILE" in
+        *.example|*.md|.gitignore|scripts/test-secret-scanner.js)
+            continue
+            ;;
+    esac
+
+    # Check for OpenAI Keys
+    if git diff --cached "$FILE" | grep -E -q "$OPENAI_PATTERN"; then
+        echo "[ERROR] Secret leak detected in '$FILE': Exposed OpenAI API key pattern."
+        FOUND_SECRET=1
+    fi
+
+    # Check for AWS Key IDs
+    if git diff --cached "$FILE" | grep -E -q "$AWS_KEY_PATTERN"; then
+        echo "[ERROR] Secret leak detected in '$FILE': Exposed AWS Access Key ID."
+        FOUND_SECRET=1
+    fi
+
+    # Check for GitHub Tokens
+    if git diff --cached "$FILE" | grep -E -q "$GITHUB_TOKEN_PATTERN"; then
+        echo "[ERROR] Secret leak detected in '$FILE': Exposed GitHub Personal Access Token."
+        FOUND_SECRET=1
+    fi
+
+    # Check for Google API Keys
+    if git diff --cached "$FILE" | grep -E -q "$GOOGLE_KEY_PATTERN"; then
+        echo "[ERROR] Secret leak detected in '$FILE': Exposed Google API Key."
+        FOUND_SECRET=1
+    fi
+
+    # Check for Private Keys
+    if git diff --cached "$FILE" | grep -E -q "$PRIVATE_KEY_PATTERN"; then
+        echo "[ERROR] Secret leak detected in '$FILE': Exposed Private Key header."
+        FOUND_SECRET=1
+    fi
+done
+
+if [ $FOUND_SECRET -ne 0 ]; then
+    echo "========================================================================="
+    echo "[COMMIT BLOCKED] Security scan detected exposed secrets in staged files."
+    echo "Please remove the credentials, update your '.env' file, and try again."
+    echo "========================================================================="
+    exit 1
+fi
+
+echo "[SECURITY CHECK] Secret scan passed cleanly. Proceeding with commit."
+exit 0
