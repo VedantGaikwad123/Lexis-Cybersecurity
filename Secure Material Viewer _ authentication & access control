@@ -1,0 +1,2683 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://digitalinvestigation.in/intern/view_material.php?id=2
+Subject: Secure Material Viewer | authentication & access control
+Date: Mon, 31 Aug 2026 09:03:11 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--lwbYYg7T4oZhJttiYNff9QIcu7m3gk6ivDhY8djebD----"
+
+
+------MultipartBoundary--lwbYYg7T4oZhJttiYNff9QIcu7m3gk6ivDhY8djebD----
+Content-Type: text/html
+Content-ID: <frame-E652AB9CA238A5A16C04D684EBA78318@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://digitalinvestigation.in/intern/view_material.php?id=2
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-71dd0491-9231-4e10-8114-09f36a7519e6@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-6afa7738-ec2e-4365-ad1a-a0e7c1fdfe36@mhtml.blink" />
+        
+        <title>Secure Material Viewer | authentication &amp; access control</title>
+        
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap">
+        
+        
+    </head>
+    <body class="theme-blue dark-mode">
+        <!-- Reading Progress Bar -->
+        <div id="reading-progress-bar" style="width: 0%; background: linear-gradient(90deg, rgb(5, 150, 105), rgb(16, 185, 129));"></div>
+        <div id="reading-progress-label" style="color: rgb(16, 185, 129); border-color: rgba(16, 185, 129, 0.4);">0% READ</div>
+        
+        <div class="watermark">
+            <span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span><span>Vedant Jitendra Gaikwad | MPCYB2026MAH-211945</span>        </div>
+
+        <div class="secure-container">
+            <!-- Inject the original HTML file content safely -->
+            
+
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Authentication &amp; Access Control Study Guide</title>
+  
+  <!-- Fonts & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com/">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Outfit:wght@400;500;600;700&amp;family=Fira+Code:wght@400;500&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
+  
+  <!-- Custom Stylesheet -->
+  
+
+
+
+  <!-- Floating Theme Customizer Button -->
+  <button class="floating-theme-btn" id="theme-panel-toggle" aria-label="Toggle theme customizer">
+    <i class="ti ti-palette"></i>
+  </button>
+
+  <!-- Theme Customizer Panel -->
+  <div class="theme-panel" id="theme-panel">
+    <h3>Theme Options</h3>
+    <div class="theme-section">
+      <span class="theme-label">Appearance</span>
+      <div class="appearance-toggles">
+        <button class="appearance-btn active" id="btn-dark-mode"><i class="ti ti-moon"></i> Dark</button>
+        <button class="appearance-btn" id="btn-light-mode"><i class="ti ti-sun"></i> Light</button>
+      </div>
+    </div>
+    <div class="theme-section">
+      <span class="theme-label">Accent Color</span>
+      <div class="accent-palette">
+        <button class="accent-dot dot-blue active" data-theme="theme-blue" title="Blue"></button>
+        <button class="accent-dot dot-purple" data-theme="theme-purple" title="Purple"></button>
+        <button class="accent-dot dot-emerald" data-theme="theme-emerald" title="Emerald"></button>
+        <button class="accent-dot dot-crimson" data-theme="theme-crimson" title="Crimson"></button>
+        <button class="accent-dot dot-amber" data-theme="theme-amber" title="Amber"></button>
+      </div>
+    </div>
+  </div>
+
+  <div class="app-container">
+    <!-- ══════════════════════════════════════════════════
+         SIDEBAR NAVIGATION
+    ══════════════════════════════════════════════════ -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <i class="ti ti-shield-lock logo-icon"></i>
+          <span>Digital<span class="logo-accent">Investigation</span></span>
+        </div>
+        <p class="logo-sub">Interactive Study Material</p>
+      </div>
+
+      <!-- Circular Progress Meter -->
+      <div class="progress-widget">
+        <div class="progress-circle-container">
+          <svg class="progress-circle" viewBox="0 0 100 100">
+            <circle class="circle-bg" cx="50" cy="50" r="42"></circle>
+            <circle class="circle-fill" cx="50" cy="50" r="42" id="completion-gauge" style="stroke-dashoffset: 0;"></circle>
+          </svg>
+          <div class="progress-percentage" id="progress-text">100%</div>
+        </div>
+        <div class="progress-label-container">
+          <span class="progress-label">Study Progress</span>
+          <span class="progress-sub" id="progress-subtext">12 of 12 sections read</span>
+        </div>
+      </div>
+
+      <!-- Navigation Links -->
+      <nav class="nav-menu">
+        <span class="nav-section-title">12 Study Core Topics</span>
+        <div class="nav-links-list">
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#authentication" class="nav-item active" data-section="authentication">
+            <span class="nav-checkbox checked" data-checkbox="authentication"><i class="ti ti-check"></i></span>
+            <span class="nav-name">1. Authentication</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#authorization" class="nav-item" data-section="authorization">
+            <span class="nav-checkbox checked" data-checkbox="authorization"><i class="ti ti-check"></i></span>
+            <span class="nav-name">2. Authorization</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#aaa" class="nav-item" data-section="aaa">
+            <span class="nav-checkbox checked" data-checkbox="aaa"><i class="ti ti-check"></i></span>
+            <span class="nav-name">3. AAA Framework</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#mfa" class="nav-item" data-section="mfa">
+            <span class="nav-checkbox checked" data-checkbox="mfa"><i class="ti ti-check"></i></span>
+            <span class="nav-name">4. MFA</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#twofa" class="nav-item" data-section="twofa">
+            <span class="nav-checkbox checked" data-checkbox="twofa"><i class="ti ti-check"></i></span>
+            <span class="nav-name">5. 2FA</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#otp" class="nav-item" data-section="otp">
+            <span class="nav-checkbox checked" data-checkbox="otp"><i class="ti ti-check"></i></span>
+            <span class="nav-name">6. OTP</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#biometrics" class="nav-item" data-section="biometrics">
+            <span class="nav-checkbox checked" data-checkbox="biometrics"><i class="ti ti-check"></i></span>
+            <span class="nav-name">7. Biometrics</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#rbac" class="nav-item" data-section="rbac">
+            <span class="nav-checkbox checked" data-checkbox="rbac"><i class="ti ti-check"></i></span>
+            <span class="nav-name">8. RBAC</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#sso" class="nav-item" data-section="sso">
+            <span class="nav-checkbox checked" data-checkbox="sso"><i class="ti ti-check"></i></span>
+            <span class="nav-name">9. SSO</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#pam" class="nav-item" data-section="pam">
+            <span class="nav-checkbox checked" data-checkbox="pam"><i class="ti ti-check"></i></span>
+            <span class="nav-name">10. PAM</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#leastprivilege" class="nav-item" data-section="leastprivilege">
+            <span class="nav-checkbox checked" data-checkbox="leastprivilege"><i class="ti ti-check"></i></span>
+            <span class="nav-name">11. Least Privilege</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#accesstokens" class="nav-item" data-section="accesstokens">
+            <span class="nav-checkbox checked" data-checkbox="accesstokens"><i class="ti ti-check"></i></span>
+            <span class="nav-name">12. Access Tokens</span>
+          </a>
+        </div>
+
+        <span class="nav-section-title">Playgrounds &amp; Quiz</span>
+        <div class="nav-links-list">
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#simulators" class="nav-item nav-special">
+            <i class="ti ti-adjustments-alt nav-icon"></i>
+            <span class="nav-name">Interactive Labs</span>
+          </a>
+          <a href="https://digitalinvestigation.in/intern/view_material.php?id=2#quiz-section" class="nav-item nav-special">
+            <i class="ti ti-checklist nav-icon"></i>
+            <span class="nav-name">Assessment Quiz</span>
+          </a>
+        </div>
+      </nav>
+    </aside>
+
+    <!-- ══════════════════════════════════════════════════
+         MAIN CONTENT AREA
+    ══════════════════════════════════════════════════ -->
+    <main class="main-content">
+      <!-- Hero Banner -->
+      <header class="hero">
+        <h1 class="hero-title">
+          <i class="ti ti-shield-lock hero-title-icon"></i>
+          Authentication &amp; Access Control
+        </h1>
+        <p class="hero-sub">Interactive Study Guide covering AAA, MFA, 2FA, OTP, Biometrics, RBAC, SSO, PAM, Least Privilege, and Access Tokens.</p>
+        
+        <div class="hero-badges">
+          <span class="hero-badge"><i class="ti ti-books"></i> 12 Topics</span>
+          <span class="hero-badge"><i class="ti ti-cpu"></i> 6 Interactive Labs</span>
+          <span class="hero-badge"><i class="ti ti-trophy"></i> Certification Quiz</span>
+        </div>
+      </header>
+
+      <!-- ── 1. AUTHENTICATION ─────────────────────── -->
+      <section class="topic-section" id="authentication">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-user-check" aria-hidden="true" style="font-size:20px"></i>
+            Authentication
+            <span class="badge badge-blue">Core</span>
+          </div>
+          <p class="definition">Authentication (often abbreviated as <strong>AuthN</strong>) is the process of verifying that someone is who they claim to be. It's the first checkpoint before granting access to any system. Think of it as the lock on a door — you must prove you have the right key.</p>
+
+          <div class="section-label">How it works — Flow Diagram</div>
+          <svg class="flow-svg" viewBox="0 0 640 180" role="img">
+            <title>Authentication Flow</title>
+            <defs>
+              <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <g class="c-blue">
+              <rect x="20" y="65" width="120" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="80" y="87" text-anchor="middle" dominant-baseline="central">User</text>
+              <text class="ts" x="80" y="105" text-anchor="middle" dominant-baseline="central">Enters credentials</text>
+            </g>
+            <line x1="140" y1="90" x2="195" y2="90" class="arr" stroke="#8b96a5" marker-end="url(#arr)"></line>
+            <text class="ts" x="167" y="82" text-anchor="middle">sends</text>
+            
+            <g class="c-purple">
+              <rect x="195" y="65" width="140" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="265" y="87" text-anchor="middle" dominant-baseline="central">Auth Server</text>
+              <text class="ts" x="265" y="105" text-anchor="middle" dominant-baseline="central">Validates identity</text>
+            </g>
+            <line x1="335" y1="90" x2="388" y2="90" class="arr" stroke="#8b96a5" marker-end="url(#arr)"></line>
+            <text class="ts" x="362" y="82" text-anchor="middle">checks</text>
+            
+            <g class="c-gray">
+              <rect x="388" y="65" width="120" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="448" y="87" text-anchor="middle" dominant-baseline="central">Database</text>
+              <text class="ts" x="448" y="105" text-anchor="middle" dominant-baseline="central">Stored hashes</text>
+            </g>
+            
+            <line x1="508" y1="75" x2="568" y2="55" class="arr" stroke="#1a7f37" marker-end="url(#arr)"></line>
+            <g class="c-teal">
+              <rect x="568" y="30" width="58" height="36" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="597" y="52" text-anchor="middle" dominant-baseline="central">Allow</text>
+            </g>
+            
+            <line x1="508" y1="105" x2="568" y2="125" class="arr" stroke="#cf222e" marker-end="url(#arr)"></line>
+            <g class="c-red">
+              <rect x="568" y="112" width="58" height="36" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="597" y="134" text-anchor="middle" dominant-baseline="central">Deny</text>
+            </g>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — Bank Login:</strong> When you enter your username and password on your bank's website, the bank checks those credentials against its database. If they match, you're authenticated as the account owner.</div>
+          <div class="example-box"><strong>Real Life — Passport Control:</strong> At airport immigration, an officer compares your face to your passport photo and validates the document's chip. You are 'authenticated' as the passport holder before entering the country.</div>
+          <div class="example-box"><strong>Everyday App — Google Sign-In:</strong> When you log into Gmail, Google verifies your email + password (and sometimes a 2FA code) before giving you access to your inbox.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">User claims an identity (e.g., enters username)</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">System requests proof (password, fingerprint, etc.)</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">User provides the credential</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">System verifies it against stored records</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Access granted or denied</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Prevents unauthorized access</div>
+              <div class="pc-item">+ Protects sensitive data</div>
+              <div class="pc-item">+ Establishes accountability</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− Passwords can be stolen or guessed</div>
+              <div class="pc-item">− Adds friction to user experience</div>
+              <div class="pc-item">− Can be bypassed with phishing</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">Identity Verification</span>
+            <span class="tag">Credentials</span>
+            <span class="tag">Login</span>
+            <span class="tag">Session</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 2. AUTHORIZATION ─────────────────────── -->
+      <section class="topic-section" id="authorization">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-key" aria-hidden="true" style="font-size:20px"></i>
+            Authorization
+            <span class="badge badge-blue">Core</span>
+          </div>
+          <p class="definition">Authorization (often abbreviated as <strong>AuthZ</strong>) determines what an authenticated user is allowed to do. After you prove who you are (authentication), the system decides what resources and actions you can access. These are two distinct steps — you can be authenticated but still unauthorized for certain actions.</p>
+
+          <div class="section-label">How it works — Flow Diagram</div>
+          <svg class="flow-svg" viewBox="0 0 640 200" role="img">
+            <title>Authorization Levels</title>
+            <defs>
+              <marker id="arr2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <g class="c-red">
+              <rect x="20" y="20" width="110" height="44" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="75" y="38" text-anchor="middle" dominant-baseline="central">Admin</text>
+              <text class="ts" x="75" y="56" text-anchor="middle" dominant-baseline="central">Full access</text>
+            </g>
+            <g class="c-amber">
+              <rect x="20" y="80" width="110" height="44" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="75" y="98" text-anchor="middle" dominant-baseline="central">Editor</text>
+              <text class="ts" x="75" y="116" text-anchor="middle" dominant-baseline="central">Read + write</text>
+            </g>
+            <g class="c-teal">
+              <rect x="20" y="140" width="110" height="44" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="75" y="158" text-anchor="middle" dominant-baseline="central">Viewer</text>
+              <text class="ts" x="75" y="176" text-anchor="middle" dominant-baseline="central">Read only</text>
+            </g>
+            
+            <line x1="130" y1="42" x2="200" y2="42" class="arr" stroke="#8b96a5" marker-end="url(#arr2)"></line>
+            <line x1="130" y1="102" x2="200" y2="102" class="arr" stroke="#8b96a5" marker-end="url(#arr2)"></line>
+            <line x1="130" y1="162" x2="200" y2="102" class="arr" stroke="#8b96a5" marker-end="url(#arr2)"></line>
+            
+            <g class="c-gray">
+              <rect x="200" y="75" width="140" height="54" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="270" y="96" text-anchor="middle" dominant-baseline="central">Auth Policy</text>
+              <text class="ts" x="270" y="114" text-anchor="middle" dominant-baseline="central">Evaluates permissions</text>
+            </g>
+            
+            <line x1="340" y1="90" x2="400" y2="55" class="arr" stroke="#1a7f37" marker-end="url(#arr2)"></line>
+            <line x1="340" y1="102" x2="400" y2="102" class="arr" stroke="#9a5a00" marker-end="url(#arr2)"></line>
+            <line x1="340" y1="114" x2="400" y2="145" class="arr" stroke="#8b96a5" marker-end="url(#arr2)"></line>
+            
+            <g class="c-teal">
+              <rect x="400" y="33" width="110" height="40" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="455" y="53" text-anchor="middle" dominant-baseline="central">Delete record</text>
+            </g>
+            <g class="c-amber">
+              <rect x="400" y="83" width="110" height="40" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="455" y="103" text-anchor="middle" dominant-baseline="central">Edit record</text>
+            </g>
+            <g class="c-gray">
+              <rect x="400" y="128" width="110" height="40" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="455" y="148" text-anchor="middle" dominant-baseline="central">View record</text>
+            </g>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — Hospital System:</strong> A doctor and a nurse both log into the hospital system (both are authenticated). The doctor can view, edit, and prescribe medication records. The nurse can view records and add notes but cannot prescribe. Authorization defines these boundaries.</div>
+          <div class="example-box"><strong>Real Life — Office Building:</strong> An employee badge lets you enter the building (authentication). But only the CFO's badge authorizes access to the server room. Same building, different authorization levels.</div>
+          <div class="example-box"><strong>Everyday App — Google Drive:</strong> The file owner can edit a shared document. A collaborator can comment. A viewer can only read. All three are authenticated users — their authorization level differs.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">User is first authenticated successfully</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">System checks user's roles or permissions</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">Request is compared against access policies</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">System allows or denies the specific action</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Audit log records the decision</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Enforces data separation</div>
+              <div class="pc-item">+ Limits blast radius of compromised accounts</div>
+              <div class="pc-item">+ Enables fine-grained control</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− Complex to manage at scale</div>
+              <div class="pc-item">− Misconfigured permissions cause breaches</div>
+              <div class="pc-item">− Hard to audit retrospectively</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">Permissions</span>
+            <span class="tag">Policies</span>
+            <span class="tag">Access Control</span>
+            <span class="tag">Roles</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 3. AAA FRAMEWORK ─────────────────────── -->
+      <section class="topic-section" id="aaa">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-topology-star" aria-hidden="true" style="font-size:20px"></i>
+            AAA Framework
+            <span class="badge badge-green">Framework</span>
+          </div>
+          <p class="definition">AAA stands for Authentication, Authorization, and Accounting — a three-pillar framework for controlling access to network resources. Together they answer: Who are you? What can you do? What did you do? It's the foundation of enterprise network security, especially in RADIUS and TACACS+ protocols.</p>
+
+          <div class="section-label">How it works — Flow Diagram</div>
+          <svg class="flow-svg" viewBox="0 0 640 160" role="img">
+            <title>AAA Framework</title>
+            <defs>
+              <marker id="arr3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <g class="c-blue">
+              <rect x="20" y="50" width="155" height="60" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="97" y="70" text-anchor="middle" dominant-baseline="central">Authentication</text>
+              <text class="ts" x="97" y="90" text-anchor="middle" dominant-baseline="central">Who are you?</text>
+              <text class="ts" x="97" y="106" text-anchor="middle" dominant-baseline="central">Identity proof</text>
+            </g>
+            <line x1="175" y1="80" x2="235" y2="80" class="arr" stroke="#8b96a5" marker-end="url(#arr3)"></line>
+            
+            <g class="c-purple">
+              <rect x="235" y="50" width="155" height="60" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="312" y="70" text-anchor="middle" dominant-baseline="central">Authorization</text>
+              <text class="ts" x="312" y="90" text-anchor="middle" dominant-baseline="central">What can you do?</text>
+              <text class="ts" x="312" y="106" text-anchor="middle" dominant-baseline="central">Permissions check</text>
+            </g>
+            <line x1="390" y1="80" x2="450" y2="80" class="arr" stroke="#8b96a5" marker-end="url(#arr3)"></line>
+            
+            <g class="c-teal">
+              <rect x="450" y="50" width="165" height="60" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="532" y="70" text-anchor="middle" dominant-baseline="central">Accounting</text>
+              <text class="ts" x="532" y="90" text-anchor="middle" dominant-baseline="central">What did you do?</text>
+              <text class="ts" x="532" y="106" text-anchor="middle" dominant-baseline="central">Logs + audit trail</text>
+            </g>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — Corporate VPN:</strong> When an employee connects to a company VPN: Authentication confirms their identity via credentials. Authorization determines which internal systems they can reach. Accounting logs exactly which servers they accessed, when, and for how long.</div>
+          <div class="example-box"><strong>Real Life — Internet Service Provider:</strong> When you dial up or connect via ISP: Authentication verifies your account. Authorization grants internet bandwidth according to your plan. Accounting tracks your data usage for billing.</div>
+          <div class="example-box"><strong>Real Life — University Network:</strong> Students login to campus WiFi (Authentication), can only access learning resources matching their course enrollment (Authorization), and their bandwidth usage is tracked and limited per policy (Accounting).</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">Authentication: Verify the user's identity</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">Authorization: Grant appropriate permissions</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">Accounting: Log all actions and resource usage</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">Reports generated for audit and billing</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Anomalies trigger security alerts</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Comprehensive security coverage</div>
+              <div class="pc-item">+ Enables audit trails</div>
+              <div class="pc-item">+ Standard for enterprise networks</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− Complex to implement</div>
+              <div class="pc-item">− RADIUS/TACACS+ require infrastructure</div>
+              <div class="pc-item">− Accounting adds storage overhead</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">RADIUS</span>
+            <span class="tag">TACACS+</span>
+            <span class="tag">Network Security</span>
+            <span class="tag">Audit Trail</span>
+            <span class="tag">Enterprise</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 4. MFA ───────────────────────────────── -->
+      <section class="topic-section" id="mfa">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-lock-plus" aria-hidden="true" style="font-size:20px"></i>
+            MFA
+            <span class="badge badge-amber">Security</span>
+          </div>
+          <p class="definition">Multi-Factor Authentication (MFA) requires users to verify their identity using two or more independent factors from different categories: something you know (password), something you have (phone/token), or something you are (biometric). Even if one factor is compromised, attackers need the others.</p>
+
+          <div class="section-label">How it works — Flow Diagram</div>
+          <svg class="flow-svg" viewBox="0 0 640 220" role="img">
+            <title>MFA Three Factors</title>
+            <defs>
+              <marker id="arr4" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <text class="th" x="320" y="22" text-anchor="middle">Three Factor Categories</text>
+            <g class="c-blue">
+              <rect x="20" y="40" width="175" height="80" rx="10" stroke-width="0.5"></rect>
+              <text class="th" x="107" y="64" text-anchor="middle" dominant-baseline="central">Something You Know</text>
+              <text class="ts" x="107" y="84" text-anchor="middle" dominant-baseline="central">Password, PIN, secret</text>
+              <text class="ts" x="107" y="104" text-anchor="middle" dominant-baseline="central">answer, passphrase</text>
+            </g>
+            <g class="c-amber">
+              <rect x="232" y="40" width="175" height="80" rx="10" stroke-width="0.5"></rect>
+              <text class="th" x="319" y="64" text-anchor="middle" dominant-baseline="central">Something You Have</text>
+              <text class="ts" x="319" y="84" text-anchor="middle" dominant-baseline="central">Phone, token, smart</text>
+              <text class="ts" x="319" y="104" text-anchor="middle" dominant-baseline="central">card, hardware key</text>
+            </g>
+            <g class="c-teal">
+              <rect x="444" y="40" width="175" height="80" rx="10" stroke-width="0.5"></rect>
+              <text class="th" x="531" y="64" text-anchor="middle" dominant-baseline="central">Something You Are</text>
+              <text class="ts" x="531" y="84" text-anchor="middle" dominant-baseline="central">Fingerprint, face, iris,</text>
+              <text class="ts" x="531" y="104" text-anchor="middle" dominant-baseline="central">voice, vein pattern</text>
+            </g>
+            
+            <line x1="107" y1="120" x2="250" y2="170" class="arr" stroke="#8b96a5" marker-end="url(#arr4)"></line>
+            <line x1="319" y1="120" x2="320" y2="170" class="arr" stroke="#8b96a5" marker-end="url(#arr4)"></line>
+            <line x1="531" y1="120" x2="390" y2="170" class="arr" stroke="#8b96a5" marker-end="url(#arr4)"></line>
+            
+            <g class="c-green">
+              <rect x="200" y="170" width="240" height="40" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="320" y="190" text-anchor="middle" dominant-baseline="central">MFA: combine 2+ categories</text>
+            </g>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — Online Banking:</strong> You enter your password (something you know), then a one-time code is sent to your registered phone (something you have). Both must be correct to access your account.</div>
+          <div class="example-box"><strong>Real Life — Accessing a Data Center:</strong> Employees swipe a key card (something you have) and scan their fingerprint (something you are) to enter a high-security server room. Two factors from two categories.</div>
+          <div class="example-box"><strong>Everyday App — Microsoft 365:</strong> Enterprise users enter their password, then must approve a push notification on their Microsoft Authenticator app. This stops credential stuffing attacks even when passwords are leaked in data breaches.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">User enters primary credential (password)</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">System recognizes a second factor is required</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">Second factor prompt sent (SMS, app, biometric)</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">User provides the second factor</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Both factors validated — access granted</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Blocks 99.9% of automated attacks (Microsoft stat)</div>
+              <div class="pc-item">+ Protects against stolen passwords</div>
+              <div class="pc-item">+ Required for many compliance frameworks</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− More friction at login</div>
+              <div class="pc-item">− SMS-based MFA vulnerable to SIM swap</div>
+              <div class="pc-item">− Device dependency</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">Security</span>
+            <span class="tag">Two+ Factors</span>
+            <span class="tag">TOTP</span>
+            <span class="tag">Push Notification</span>
+            <span class="tag">Compliance</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 5. 2FA ───────────────────────────────── -->
+      <section class="topic-section" id="twofa">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-device-mobile" aria-hidden="true" style="font-size:20px"></i>
+            2FA
+            <span class="badge badge-amber">Security</span>
+          </div>
+          <p class="definition">Two-Factor Authentication (2FA) is a specific subset of MFA that uses exactly two verification factors. It's the most widely deployed form of multi-factor authentication and is now standard across major consumer platforms. The most common combination is password + SMS/app code.</p>
+
+          <div class="section-label">How it works — Flow Diagram</div>
+          <svg class="flow-svg" viewBox="0 0 640 150" role="img">
+            <title>2FA Login Flow</title>
+            <defs>
+              <marker id="arr5" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <g class="c-gray">
+              <rect x="20" y="50" width="100" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="70" y="70" text-anchor="middle" dominant-baseline="central">User</text>
+              <text class="ts" x="70" y="88" text-anchor="middle" dominant-baseline="central">Logs in</text>
+            </g>
+            <line x1="120" y1="75" x2="165" y2="75" class="arr" stroke="#8b96a5" marker-end="url(#arr5)"></line>
+            
+            <g class="c-blue">
+              <rect x="165" y="50" width="130" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="230" y="70" text-anchor="middle" dominant-baseline="central">Step 1: Password</text>
+              <text class="ts" x="230" y="88" text-anchor="middle" dominant-baseline="central">Something you know</text>
+            </g>
+            <line x1="295" y1="75" x2="340" y2="75" class="arr" stroke="#8b96a5" marker-end="url(#arr5)"></line>
+            
+            <g class="c-amber">
+              <rect x="340" y="50" width="140" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="410" y="70" text-anchor="middle" dominant-baseline="central">Step 2: App/SMS Code</text>
+              <text class="ts" x="410" y="88" text-anchor="middle" dominant-baseline="central">Something you have</text>
+            </g>
+            <line x1="480" y1="75" x2="520" y2="75" class="arr" stroke="#1a7f37" marker-end="url(#arr5)"></line>
+            
+            <g class="c-teal">
+              <rect x="520" y="50" width="100" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="570" y="70" text-anchor="middle" dominant-baseline="central">Access</text>
+              <text class="ts" x="570" y="88" text-anchor="middle" dominant-baseline="central">Granted</text>
+            </g>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — Instagram / Twitter:</strong> You log in with your password. The platform sends a 6-digit code to your phone via SMS or authenticator app. You enter the code within 30 seconds. Even if someone steals your password, they cannot log in without your phone.</div>
+          <div class="example-box"><strong>Real Life — ATM Machine:</strong> You insert your debit card (something you have) and enter your PIN (something you know). This is classic 2FA that has protected banking transactions for decades.</div>
+          <div class="example-box"><strong>Real Life — Tax Filing (HMRC/IRS):</strong> Government tax portals require you to enter your password, then verify via a code sent to your phone or email before accessing sensitive financial records.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">Factor 1: Enter username + password</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">System validates first factor</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">Prompt for second factor (app code / SMS)</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">User enters the time-limited code</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Both verified — session started</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Simple to understand and deploy</div>
+              <div class="pc-item">+ Widely supported by apps</div>
+              <div class="pc-item">+ Dramatically reduces account takeover risk</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− SMS 2FA is vulnerable to SIM swapping</div>
+              <div class="pc-item">− App codes lost if phone is lost/broken</div>
+              <div class="pc-item">− Not enough for high-security systems</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">Password</span>
+            <span class="tag">SMS</span>
+            <span class="tag">TOTP</span>
+            <span class="tag">App Code</span>
+            <span class="tag">Consumer Apps</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 6. OTP ───────────────────────────────── -->
+      <section class="topic-section" id="otp">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-number" aria-hidden="true" style="font-size:20px"></i>
+            OTP
+            <span class="badge badge-green">Mechanism</span>
+          </div>
+          <p class="definition">A One-Time Password (OTP) is a password valid for only one login session or transaction. It cannot be reused, which means intercepted or stolen OTPs are useless. They're generated either by a time-based algorithm (TOTP) or an event counter (HOTP) and are central to MFA/2FA implementations.</p>
+
+          <div class="section-label">How it works — Flow Diagram</div>
+          <svg class="flow-svg" viewBox="0 0 640 170" role="img">
+            <title>TOTP OTP Generation</title>
+            <defs>
+              <marker id="arr6" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <g class="c-gray">
+              <rect x="20" y="30" width="120" height="44" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="80" y="52" text-anchor="middle" dominant-baseline="central">Shared Secret</text>
+            </g>
+            <g class="c-gray">
+              <rect x="20" y="96" width="120" height="44" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="80" y="118" text-anchor="middle" dominant-baseline="central">Current Time</text>
+            </g>
+            
+            <line x1="140" y1="52" x2="190" y2="95" class="arr" stroke="#8b96a5" marker-end="url(#arr6)"></line>
+            <line x1="140" y1="118" x2="190" y2="100" class="arr" stroke="#8b96a5" marker-end="url(#arr6)"></line>
+            
+            <g class="c-amber">
+              <rect x="190" y="68" width="130" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="255" y="88" text-anchor="middle" dominant-baseline="central">HMAC-SHA1</text>
+              <text class="ts" x="255" y="106" text-anchor="middle" dominant-baseline="central">Algorithm</text>
+            </g>
+            <line x1="320" y1="93" x2="370" y2="78" class="arr" stroke="#8b96a5" marker-end="url(#arr6)"></line>
+            <line x1="320" y1="93" x2="370" y2="115" class="arr" stroke="#8b96a5" marker-end="url(#arr6)"></line>
+            
+            <g class="c-blue">
+              <rect x="370" y="55" width="120" height="44" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="430" y="75" text-anchor="middle" dominant-baseline="central">App shows</text>
+              <text class="ts" x="430" y="92" text-anchor="middle" dominant-baseline="central">847 219</text>
+            </g>
+            <g class="c-blue">
+              <rect x="370" y="99" width="120" height="44" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="430" y="118" text-anchor="middle" dominant-baseline="central">Server expects</text>
+              <text class="ts" x="430" y="136" text-anchor="middle" dominant-baseline="central">847 219</text>
+            </g>
+            
+            <line x1="490" y1="77" x2="550" y2="93" class="arr" stroke="#1a7f37" marker-end="url(#arr6)"></line>
+            <line x1="490" y1="121" x2="550" y2="106" class="arr" stroke="#1a7f37" marker-end="url(#arr6)"></line>
+            
+            <g class="c-teal">
+              <rect x="550" y="73" width="70" height="44" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="585" y="93" text-anchor="middle" dominant-baseline="central">Match!</text>
+              <text class="ts" x="585" y="110" text-anchor="middle" dominant-baseline="central">Login OK</text>
+            </g>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — Online Shopping Verification:</strong> When you make a large online purchase, your bank sends a 6-digit OTP to your registered phone number. You enter it on the checkout page to authorize the transaction. It expires in 3–5 minutes.</div>
+          <div class="example-box"><strong>Real Life — Password Reset:</strong> You click 'Forgot Password'. The site sends a one-time code to your email or phone. This OTP is valid for a single use within 10 minutes — after that, it expires even if unused.</div>
+          <div class="example-box"><strong>Everyday App — Google Authenticator:</strong> The app generates a new 6-digit TOTP every 30 seconds using a shared secret key and the current time. The server generates the same code simultaneously — if they match, you're authenticated.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">Shared secret established between user and server at setup</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">User requests access, server triggers OTP</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">OTP generated using time (TOTP) or counter (HOTP)</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">User enters OTP within the validity window</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Server verifies using same algorithm — access granted</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Replay attacks impossible</div>
+              <div class="pc-item">+ Simple to generate and verify</div>
+              <div class="pc-item">+ Works offline (TOTP apps)</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− Time sync issues cause failures</div>
+              <div class="pc-item">− SMS OTPs interceptable</div>
+              <div class="pc-item">− Lost device = locked out</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">TOTP</span>
+            <span class="tag">HOTP</span>
+            <span class="tag">RFC 6238</span>
+            <span class="tag">30-second window</span>
+            <span class="tag">Google Authenticator</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 7. BIOMETRICS ────────────────────────── -->
+      <section class="topic-section" id="biometrics">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-fingerprint" aria-hidden="true" style="font-size:20px"></i>
+            Biometrics
+            <span class="badge badge-amber">Security</span>
+          </div>
+          <p class="definition">Biometric authentication uses unique physical or behavioral characteristics to verify identity. Unlike passwords, biometrics can't be forgotten, are extremely hard to forge, and are always with you. They are increasingly used as the 'something you are' factor in MFA.</p>
+
+          <div class="section-label">How it works — Flow Diagram</div>
+          <svg class="flow-svg" viewBox="0 0 640 190" role="img">
+            <title>Biometric Types</title>
+            <g class="c-teal">
+              <rect x="20" y="40" width="105" height="60" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="72" y="62" text-anchor="middle" dominant-baseline="central">Fingerprint</text>
+              <text class="ts" x="72" y="80" text-anchor="middle" dominant-baseline="central">FAR 0.001%</text>
+              <text class="ts" x="72" y="95" text-anchor="middle" dominant-baseline="central">Most common</text>
+            </g>
+            <g class="c-blue">
+              <rect x="140" y="40" width="105" height="60" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="192" y="62" text-anchor="middle" dominant-baseline="central">Face</text>
+              <text class="ts" x="192" y="80" text-anchor="middle" dominant-baseline="central">FAR 0.1%</text>
+              <text class="ts" x="192" y="95" text-anchor="middle" dominant-baseline="central">Contactless</text>
+            </g>
+            <g class="c-purple">
+              <rect x="260" y="40" width="105" height="60" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="312" y="62" text-anchor="middle" dominant-baseline="central">Iris</text>
+              <text class="ts" x="312" y="80" text-anchor="middle" dominant-baseline="central">FAR 0.0001%</text>
+              <text class="ts" x="312" y="95" text-anchor="middle" dominant-baseline="central">Most accurate</text>
+            </g>
+            <g class="c-amber">
+              <rect x="380" y="40" width="105" height="60" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="432" y="62" text-anchor="middle" dominant-baseline="central">Voice</text>
+              <text class="ts" x="432" y="80" text-anchor="middle" dominant-baseline="central">FAR 1–5%</text>
+              <text class="ts" x="432" y="95" text-anchor="middle" dominant-baseline="central">Phone banking</text>
+            </g>
+            <g class="c-coral">
+              <rect x="500" y="40" width="120" height="60" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="560" y="62" text-anchor="middle" dominant-baseline="central">Behavioral</text>
+              <text class="ts" x="560" y="80" text-anchor="middle" dominant-baseline="central">Typing pattern</text>
+              <text class="ts" x="560" y="95" text-anchor="middle" dominant-baseline="central">Continuous auth</text>
+            </g>
+            <text class="ts" x="320" y="136" text-anchor="middle">FAR = False Acceptance Rate (lower is more secure)</text>
+            <text class="ts" x="320" y="154" text-anchor="middle">FRR = False Rejection Rate (lower is more convenient)</text>
+            <text class="ts" x="320" y="172" text-anchor="middle">Security-convenience trade-off exists in all biometric systems</text>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — iPhone Face ID:</strong> Your iPhone projects 30,000+ infrared dots onto your face, maps the 3D geometry, and compares it to the encrypted mathematical model stored in the Secure Enclave chip. No facial image is stored — only a mathematical representation.</div>
+          <div class="example-box"><strong>Real Life — Fingerprint in Airports:</strong> US Global Entry program uses fingerprint scans at immigration kiosks. Your fingerprint is matched against a pre-enrolled government database, allowing faster border crossing.</div>
+          <div class="example-box"><strong>Real Life — Banking Call Centers:</strong> Barclays Voice Banking analyzes 100+ voice characteristics (pitch, cadence, dialect) to authenticate callers in under 10 seconds — replacing PIN numbers for phone banking.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">Enrollment: biometric data captured and converted to a template</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">Template stored securely (often on device, not server)</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">At login, live biometric sample captured</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">System compares sample to stored template</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Similarity score exceeds threshold — access granted</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Can't be forgotten or lost</div>
+              <div class="pc-item">+ Very hard to forge</div>
+              <div class="pc-item">+ Fast and frictionless</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− Cannot be changed if compromised</div>
+              <div class="pc-item">− Privacy concerns with central storage</div>
+              <div class="pc-item">− FAR/FRR errors exist</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">FAR &amp; FRR</span>
+            <span class="tag">Secure Enclave</span>
+            <span class="tag">Facial Recognition</span>
+            <span class="tag">Fingerprint Scanner</span>
+            <span class="tag">Biometric Template</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 8. ROLE-BASED ACCESS CONTROL (RBAC) ── -->
+      <section class="topic-section" id="rbac">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-users" aria-hidden="true" style="font-size:20px"></i>
+            Role-Based Access Control (RBAC)
+            <span class="badge badge-green">Framework</span>
+          </div>
+          <p class="definition">Role-Based Access Control (RBAC) is an authorization mechanism where permissions are assigned to specific roles (e.g., Administrator, Editor, Viewer) rather than directly to individual users. Users are then assigned roles, inheriting their permissions. This makes access management scalable and structured.</p>
+
+          <div class="section-label">How it works — Flow Diagram</div>
+          <svg class="flow-svg" viewBox="0 0 640 180" role="img">
+            <title>RBAC Structure</title>
+            <defs>
+              <marker id="arr8" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <g class="c-blue">
+              <rect x="20" y="20" width="110" height="36" rx="6" stroke-width="0.5"></rect>
+              <text class="th" x="75" y="38" text-anchor="middle" dominant-baseline="central">User: Alice</text>
+            </g>
+            <g class="c-blue">
+              <rect x="20" y="72" width="110" height="36" rx="6" stroke-width="0.5"></rect>
+              <text class="th" x="75" y="90" text-anchor="middle" dominant-baseline="central">User: Bob</text>
+            </g>
+            <g class="c-blue">
+              <rect x="20" y="124" width="110" height="36" rx="6" stroke-width="0.5"></rect>
+              <text class="th" x="75" y="142" text-anchor="middle" dominant-baseline="central">User: Clara</text>
+            </g>
+
+            <line x1="130" y1="38" x2="210" y2="58" class="arr" stroke="#8b96a5" marker-end="url(#arr8)"></line>
+            <line x1="130" y1="90" x2="210" y2="58" class="arr" stroke="#8b96a5" marker-end="url(#arr8)"></line>
+            <line x1="130" y1="142" x2="210" y2="122" class="arr" stroke="#8b96a5" marker-end="url(#arr8)"></line>
+
+            <g class="c-purple">
+              <rect x="210" y="38" width="120" height="40" rx="6" stroke-width="0.5"></rect>
+              <text class="th" x="270" y="58" text-anchor="middle" dominant-baseline="central">Admin Role</text>
+            </g>
+            <g class="c-purple">
+              <rect x="210" y="102" width="120" height="40" rx="6" stroke-width="0.5"></rect>
+              <text class="th" x="270" y="122" text-anchor="middle" dominant-baseline="central">Viewer Role</text>
+            </g>
+
+            <line x1="330" y1="58" x2="410" y2="38" class="arr" stroke="#8b96a5" marker-end="url(#arr8)"></line>
+            <line x1="330" y1="58" x2="410" y2="90" class="arr" stroke="#8b96a5" marker-end="url(#arr8)"></line>
+            <line x1="330" y1="122" x2="410" y2="142" class="arr" stroke="#8b96a5" marker-end="url(#arr8)"></line>
+
+            <g class="c-teal">
+              <rect x="410" y="18" width="200" height="40" rx="6" stroke-width="0.5"></rect>
+              <text class="th" x="510" y="38" text-anchor="middle" dominant-baseline="central">Write Permission (DB_EDIT)</text>
+            </g>
+            <g class="c-teal">
+              <rect x="410" y="70" width="200" height="40" rx="6" stroke-width="0.5"></rect>
+              <text class="th" x="510" y="90" text-anchor="middle" dominant-baseline="central">Read Permission (DB_VIEW)</text>
+            </g>
+            <g class="c-gray">
+              <rect x="410" y="122" width="200" height="40" rx="6" stroke-width="0.5"></rect>
+              <text class="th" x="510" y="142" text-anchor="middle" dominant-baseline="central">Audit Permission (LOGS_VIEW)</text>
+            </g>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — AWS IAM:</strong> Instead of attaching S3 read/write permissions directly to individual developers, you create a "DeveloperRole" containing S3 policies and assign developers to it.</div>
+          <div class="example-box"><strong>Real Life — WordPress:</strong> WordPress manages access via roles like Administrator (full access), Editor (can publish and edit anyone's posts), Author (can write and publish own posts), and Subscriber (read-only).</div>
+          <div class="example-box"><strong>Everyday App — GitHub:</strong> Repositories have roles like Owner, Collaborator, and Viewer. You add users to a team which is assigned a specific repository access role.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">Identify system permissions (actions like Read, Write, Delete)</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">Define roles based on job functions (Admin, Editor, Support)</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">Assign the permissions to those roles</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">Map users to one or more appropriate roles</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Auth server checks roles to allow or deny actions</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Highly scalable access administration</div>
+              <div class="pc-item">+ Standardized onboarding and offboarding</div>
+              <div class="pc-item">+ Simplifies compliance audits</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− Role explosion (too many custom roles)</div>
+              <div class="pc-item">− Static; cannot evaluate dynamic conditions (like time)</div>
+              <div class="pc-item">− Vulnerable to permission accumulation over time</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">ABAC</span>
+            <span class="tag">Permissions Group</span>
+            <span class="tag">Access Hierarchy</span>
+            <span class="tag">IAM</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 9. SINGLE SIGN-ON (SSO) ─────────────── -->
+      <section class="topic-section" id="sso">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-login" aria-hidden="true" style="font-size:20px"></i>
+            Single Sign-On (SSO)
+            <span class="badge badge-green">Framework</span>
+          </div>
+          <p class="definition">Single Sign-On (SSO) is an authentication method that enables users to authenticate once and securely access multiple independent applications or websites. It relies on a central Identity Provider (IdP) that passes assertions/tokens to Service Providers (SP) via protocols like SAML or OpenID Connect (OIDC).</p>
+
+          <div class="section-label">How it works — Flow Diagram</div>
+          <svg class="flow-svg" viewBox="0 0 640 180" role="img">
+            <title>SSO Flow</title>
+            <defs>
+              <marker id="arr9" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <g class="c-blue">
+              <rect x="20" y="65" width="130" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="85" y="87" text-anchor="middle" dominant-baseline="central">User Browser</text>
+              <text class="ts" x="85" y="105" text-anchor="middle" dominant-baseline="central">Wants to log in</text>
+            </g>
+            
+            <line x1="150" y1="80" x2="230" y2="45" class="arr" stroke="#8b96a5" marker-end="url(#arr9)"></line>
+            <text class="ts" x="190" y="55" text-anchor="middle">1. Request access</text>
+            <line x1="230" y1="55" x2="150" y2="90" class="arr" stroke="#8b96a5" marker-end="url(#arr9)"></line>
+            <text class="ts" x="190" y="80" text-anchor="middle">2. Redirect to IdP</text>
+            
+            <g class="c-purple">
+              <rect x="230" y="20" width="160" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="310" y="42" text-anchor="middle" dominant-baseline="central">Service Provider (SP)</text>
+              <text class="ts" x="310" y="60" text-anchor="middle" dominant-baseline="central">e.g. Zoom, Slack</text>
+            </g>
+
+            <line x1="150" y1="100" x2="230" y2="135" class="arr" stroke="#8b96a5" marker-end="url(#arr9)"></line>
+            <text class="ts" x="190" y="125" text-anchor="middle">3. Login + Auth</text>
+            <line x1="230" y1="145" x2="150" y2="110" class="arr" stroke="#8b96a5" marker-end="url(#arr9)"></line>
+            <text class="ts" x="190" y="150" text-anchor="middle">4. OIDC Token assert</text>
+
+            <g class="c-teal">
+              <rect x="230" y="110" width="160" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="310" y="132" text-anchor="middle" dominant-baseline="central">Identity Provider (IdP)</text>
+              <text class="ts" x="310" y="150" text-anchor="middle" dominant-baseline="central">e.g. Okta, Azure AD</text>
+            </g>
+
+            <line x1="390" y1="135" x2="470" y2="135" class="arr" stroke="#1a7f37" stroke-dasharray="3,3" marker-end="url(#arr9)"></line>
+            <text class="ts" x="430" y="125" text-anchor="middle">5. Verify trust</text>
+
+            <g class="c-green">
+              <rect x="470" y="65" width="150" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="545" y="87" text-anchor="middle" dominant-baseline="central">Application Session</text>
+              <text class="ts" x="545" y="105" text-anchor="middle" dominant-baseline="central">Success! Access OK</text>
+            </g>
+            <line x1="390" y1="45" x2="470" y2="80" class="arr" stroke="#1a7f37" marker-end="url(#arr9)"></line>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — Sign in with Google:</strong> When you open a site like Medium or Airbnb, you click "Sign in with Google." Google verifies your credentials, asks for your consent, and sends a token confirming your identity to Medium/Airbnb.</div>
+          <div class="example-box"><strong>Real Life — Corporate Okta Portal:</strong> An employee logs into their Okta dashboard once in the morning. They can click on icons for Salesforce, Gmail, Workday, and Jira, launching them directly without entering passwords again.</div>
+          <div class="example-box"><strong>Everyday App — Microsoft Entra ID:</strong> Enterprise employees sign in once to Windows, gaining seamless access to Outlook, Teams, SharePoint, and internal business apps automatically.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">User accesses the Service Provider app (e.g. Slack) and clicks Login</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">Slack redirects the browser to the Identity Provider (e.g. Okta) with an auth request</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">User authenticates directly with Okta (entering password + MFA)</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">Okta generates a signed token (assertion) and redirects back to Slack</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Slack validates the signature on the token and logs the user in</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Increases user productivity and convenience</div>
+              <div class="pc-item">+ Centralizes credentials (no password reuse across apps)</div>
+              <div class="pc-item">+ Allows central enforcement of MFA policies</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− Single point of failure (if IdP goes down, all apps block)</div>
+              <div class="pc-item">− "Single point of compromise" (stolen IdP account gives access to all apps)</div>
+              <div class="pc-item">− Complex initial protocol configuration (SAML metadata/certs)</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">Identity Provider (IdP)</span>
+            <span class="tag">SAML 2.0</span>
+            <span class="tag">OpenID Connect (OIDC)</span>
+            <span class="tag">Federated Identity</span>
+            <span class="tag">OAuth 2.0</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 10. PRIVILEGED ACCESS MANAGEMENT (PAM) ── -->
+      <section class="topic-section" id="pam">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-user-shield" aria-hidden="true" style="font-size:20px"></i>
+            Privileged Access Management (PAM)
+            <span class="badge badge-green">Framework</span>
+          </div>
+          <p class="definition">Privileged Access Management (PAM) is a system of policies, processes, and tools designed to secure, monitor, and audit administrative accounts (e.g. root, domain admin) that have high-level privileges. PAM ensures these keys to the kingdom are strictly controlled and session-recorded.</p>
+
+          <div class="section-label">How it works — Flow Diagram</div>
+          <svg class="flow-svg" viewBox="0 0 640 180" role="img">
+            <title>PAM Flow</title>
+            <defs>
+              <marker id="arr10" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <g class="c-blue">
+              <rect x="20" y="65" width="120" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="80" y="87" text-anchor="middle" dominant-baseline="central">Sysadmin</text>
+              <text class="ts" x="80" y="105" text-anchor="middle" dominant-baseline="central">Needs Root Access</text>
+            </g>
+            <line x1="140" y1="90" x2="195" y2="90" class="arr" stroke="#8b96a5" marker-end="url(#arr10)"></line>
+            <text class="ts" x="167" y="82" text-anchor="middle">1. Request</text>
+
+            <g class="c-purple">
+              <rect x="195" y="55" width="160" height="70" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="275" y="75" text-anchor="middle" dominant-baseline="central">PAM Gateway</text>
+              <text class="ts" x="275" y="95" text-anchor="middle" dominant-baseline="central">Rotates &amp; Obscures</text>
+              <text class="ts" x="275" y="111" text-anchor="middle" dominant-baseline="central">Creds (JIT Access)</text>
+            </g>
+            
+            <line x1="355" y1="90" x2="410" y2="90" class="arr" stroke="#8b96a5" marker-end="url(#arr10)"></line>
+            <text class="ts" x="382" y="82" text-anchor="middle">2. Proxies</text>
+            
+            <g class="c-teal">
+              <rect x="410" y="65" width="120" height="50" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="470" y="87" text-anchor="middle" dominant-baseline="central">Target Server</text>
+              <text class="ts" x="470" y="105" text-anchor="middle" dominant-baseline="central">Production DB</text>
+            </g>
+            
+            <line x1="275" y1="125" x2="275" y2="155" class="arr" stroke="#cf222e" marker-end="url(#arr10)"></line>
+            <line x1="275" y1="155" x2="540" y2="155" class="arr" stroke="#cf222e" marker-end="url(#arr10)"></line>
+            
+            <g class="c-red">
+              <rect x="540" y="65" width="90" height="90" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="585" y="100" text-anchor="middle" dominant-baseline="central">Audit Logs</text>
+              <text class="ts" x="585" y="120" text-anchor="middle" dominant-baseline="central">Keystroke &amp;</text>
+              <text class="ts" x="585" y="136" text-anchor="middle" dominant-baseline="central">Video Record</text>
+            </g>
+            <line x1="530" y1="90" x2="540" y2="90" class="arr" stroke="#1a7f37" marker-end="url(#arr10)"></line>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — Password Vaulting:</strong> Administrators do not know the actual root passwords of production servers. The passwords are saved in a PAM vault (like CyberArk) and rotated automatically every 24 hours. The PAM proxy injects the credentials transparently at login.</div>
+          <div class="example-box"><strong>Real Life — Just-In-Time (JIT) Access:</strong> A database engineer needs access to billing tables for an hour. They request access through a PAM workflow. Once approved, PAM elevates their permissions and automatically revokes them after 60 minutes.</div>
+          <div class="example-box"><strong>Everyday App — SSH Session Recording:</strong> Security teams use PAM tools to record visual SSH/RDP sessions of contractors working on critical infrastructure, allowing them to playback keystrokes to detect suspicious acts.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">Admin requests elevated credentials from the PAM system</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">PAM validates request against policy or prompts manager for approval</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">Access granted via dynamic, short-lived session (Just-In-Time)</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">PAM records all activities (keystrokes, commands, screens)</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Session closes, and PAM rolls/rotates the target account credentials</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Minimizes target surface for credentials theft</div>
+              <div class="pc-item">+ Implements bulletproof session auditing and attribution</div>
+              <div class="pc-item">+ Stops lateral movement by compromised accounts</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− High implementation costs and organizational friction</div>
+              <div class="pc-item">− Admin bypass routes can compromise security if not hardened</div>
+              <div class="pc-item">− High operational complexity to customize workflows</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">Privileged Account</span>
+            <span class="tag">Session Vaulting</span>
+            <span class="tag">Credential Rotation</span>
+            <span class="tag">JIT (Just-In-Time) Access</span>
+            <span class="tag">Bastion Host</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 11. PRINCIPLE OF LEAST PRIVILEGE ────── -->
+      <section class="topic-section" id="leastprivilege">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-scale" aria-hidden="true" style="font-size:20px"></i>
+            Principle of Least Privilege (PoLP)
+            <span class="badge badge-green">Framework</span>
+          </div>
+          <p class="definition">The Principle of Least Privilege (PoLP) dictates that a user, program, or system should be granted only the minimum necessary privileges required to complete its tasks. By limiting permissions to what is essential, you minimize the risk and "blast radius" of user errors or account hijacking.</p>
+
+          <div class="section-label">How it works — Over-Privileged vs. Least Privilege</div>
+          <svg class="flow-svg" viewBox="0 0 640 180" role="img">
+            <title>Least Privilege Comparison</title>
+            <defs>
+              <marker id="arr11" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <!-- Over-privileged Case -->
+            <text class="th" x="150" y="20" text-anchor="middle">Over-Privileged (Bad)</text>
+            <g class="c-red">
+              <rect x="20" y="60" width="80" height="40" rx="6" stroke-width="0.5"></rect>
+              <text class="th" x="60" y="80" text-anchor="middle" dominant-baseline="central">Developer</text>
+            </g>
+            <line x1="100" y1="80" x2="160" y2="50" class="arr" stroke="#cf222e" marker-end="url(#arr11)"></line>
+            <line x1="100" y1="80" x2="160" y2="80" class="arr" stroke="#cf222e" marker-end="url(#arr11)"></line>
+            <line x1="100" y1="80" x2="160" y2="110" class="arr" stroke="#cf222e" marker-end="url(#arr11)"></line>
+            
+            <g class="c-gray">
+              <rect x="160" y="35" width="100" height="25" rx="4" stroke-width="0.5"></rect>
+              <text class="ts" x="210" y="47" text-anchor="middle" dominant-baseline="central">Code Repo</text>
+            </g>
+            <g class="c-gray">
+              <rect x="160" y="67" width="100" height="25" rx="4" stroke-width="0.5"></rect>
+              <text class="ts" x="210" y="79" text-anchor="middle" dominant-baseline="central">Dev DB</text>
+            </g>
+            <g class="c-red">
+              <rect x="160" y="99" width="100" height="25" rx="4" stroke-width="0.5"></rect>
+              <text class="th" x="210" y="111" text-anchor="middle" dominant-baseline="central">Production DB</text>
+            </g>
+            <text class="ts" x="150" y="145" text-anchor="middle" fill="var(--red)">If compromised: Dev steals production DB</text>
+
+            <!-- Line Divider -->
+            <line x1="320" y1="10" x2="320" y2="160" stroke="var(--border)" stroke-width="2"></line>
+
+            <!-- Least Privilege Case -->
+            <text class="th" x="490" y="20" text-anchor="middle">Least Privilege (Good)</text>
+            <g class="c-green">
+              <rect x="360" y="60" width="80" height="40" rx="6" stroke-width="0.5"></rect>
+              <text class="th" x="400" y="80" text-anchor="middle" dominant-baseline="central">Developer</text>
+            </g>
+            <line x1="440" y1="80" x2="500" y2="50" class="arr" stroke="#1a7f37" marker-end="url(#arr11)"></line>
+            <line x1="440" y1="80" x2="500" y2="80" class="arr" stroke="#1a7f37" marker-end="url(#arr11)"></line>
+            <line x1="440" y1="80" x2="500" y2="110" class="arr" stroke="#cf222e" marker-end="url(#arr11)" stroke-dasharray="3,3"></line>
+            
+            <g class="c-gray">
+              <rect x="500" y="35" width="100" height="25" rx="4" stroke-width="0.5"></rect>
+              <text class="ts" x="550" y="47" text-anchor="middle" dominant-baseline="central">Code Repo</text>
+            </g>
+            <g class="c-gray">
+              <rect x="500" y="67" width="100" height="25" rx="4" stroke-width="0.5"></rect>
+              <text class="ts" x="550" y="79" text-anchor="middle" dominant-baseline="central">Dev DB</text>
+            </g>
+            <g class="c-red" opacity="0.4">
+              <rect x="500" y="99" width="100" height="25" rx="4" stroke-width="0.5"></rect>
+              <text class="th" x="550" y="111" text-anchor="middle" dominant-baseline="central">Production DB</text>
+            </g>
+            <text class="ts" x="490" y="145" text-anchor="middle" fill="var(--green)">If compromised: Production DB is safe!</text>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — Local Admin Rights:</strong> A standard employee laptop does not have local admin privileges. Employees can run apps but cannot install software or modify registry settings without IT approval. This stops drive-by malware.</div>
+          <div class="example-box"><strong>Real Life — Docker Containers:</strong> Best practices dictate running Docker containers as a non-root user (e.g., `USER node` in Node.js apps). If a container is exploited, the hacker gets no host root privileges.</div>
+          <div class="example-box"><strong>Everyday App — Mobile App Permissions:</strong> An email client asks for permission to access contacts but doesn't ask for microphone, camera, or location settings. It requesting only what is needed.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">Map out the specific tasks that a user or service account must do</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">Identify the bare minimum privileges required for those tasks</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">Configure permissions default-deny (start with zero access)</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">Add privileges incrementally until task needs are exactly met</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">Audit and review permissions regularly, stripping unused ones</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Restricts blast radius of any compromised asset</div>
+              <div class="pc-item">+ Mitigates insider threats and accident risks</div>
+              <div class="pc-item">+ Greatly simplifies compliance audits</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− Increases support tickets (users asking for access)</div>
+              <div class="pc-item">− Requires constant tracking of changing job duties</div>
+              <div class="pc-item">− Can temporarily slow down development speed</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">Default Deny</span>
+            <span class="tag">Blast Radius</span>
+            <span class="tag">Segregation of Duties</span>
+            <span class="tag">Need to Know</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── 12. ACCESS TOKENS (JWT & SESSIONS) ───── -->
+      <section class="topic-section" id="accesstokens">
+        <div class="card">
+          <div class="card-title">
+            <i class="ti ti-id-badge" aria-hidden="true" style="font-size:20px"></i>
+            Access Tokens (JWT &amp; Sessions)
+            <span class="badge badge-green">Mechanism</span>
+          </div>
+          <p class="definition">Access Tokens are keys used by applications to prove that a client has been authenticated and is authorized to execute API requests. They are typically stateless self-contained JSON Web Tokens (JWT) signed by a server key, or reference tokens referring to data stored in a database session table.</p>
+
+          <div class="section-label">How it works — JWT Structure</div>
+          <svg class="flow-svg" viewBox="0 0 640 180" role="img">
+            <title>JWT Structure</title>
+            <defs>
+              <marker id="arr12" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M2 1L8 5L2 9" fill="none" stroke="#8b96a5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              </marker>
+            </defs>
+            <text class="th" x="320" y="20" text-anchor="middle">Anatomy of a JWT (JSON Web Token)</text>
+            
+            <g class="c-red">
+              <rect x="20" y="45" width="180" height="80" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="110" y="65" text-anchor="middle" dominant-baseline="central">Header (Red)</text>
+              <text class="ts" x="110" y="85" text-anchor="middle" dominant-baseline="central">Algorithm &amp; Token Type</text>
+              <text class="ts" x="110" y="105" text-anchor="middle" dominant-baseline="central">{"alg": "HS256", "typ": "JWT"}</text>
+            </g>
+            <text class="th" x="210" y="85" text-anchor="middle" fill="var(--text3)">.</text>
+
+            <g class="c-purple">
+              <rect x="220" y="45" width="200" height="80" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="320" y="65" text-anchor="middle" dominant-baseline="central">Payload (Purple)</text>
+              <text class="ts" x="320" y="85" text-anchor="middle" dominant-baseline="central">Claims (subject, role, exp)</text>
+              <text class="ts" x="320" y="105" text-anchor="middle" dominant-baseline="central">{"sub": "123", "role": "editor"}</text>
+            </g>
+            <text class="th" x="430" y="85" text-anchor="middle" fill="var(--text3)">.</text>
+
+            <g class="c-blue">
+              <rect x="440" y="45" width="180" height="80" rx="8" stroke-width="0.5"></rect>
+              <text class="th" x="530" y="65" text-anchor="middle" dominant-baseline="central">Signature (Blue)</text>
+              <text class="ts" x="530" y="85" text-anchor="middle" dominant-baseline="central">HMAC-SHA256 Hash</text>
+              <text class="ts" x="530" y="105" text-anchor="middle" dominant-baseline="central">Prevents tampering</text>
+            </g>
+            <text class="ts" x="320" y="150" text-anchor="middle">Base64UrlEncodedHeader . Base64UrlEncodedPayload . CryptographicSignature</text>
+          </svg>
+
+          <div class="section-label">Real-Life Examples</div>
+          <div class="example-box"><strong>Real Life — REST APIs:</strong> A user logs in. The server returns a JWT. For all subsequent requests, the user's browser adds the header: `Authorization: Bearer <jwt_token>`. The server decodes it and grants access without querying a DB.</jwt_token></div>
+          <div class="example-box"><strong>Real Life — SSO Tokens:</strong> SSO architectures pass identity profiles in tokens between the Identity Provider (IdP) and Service Providers. OIDC uses ID tokens (JWTs) to carry verified user profiles.</div>
+          <div class="example-box"><strong>Everyday App — Auth Cookies:</strong> When you login to a shopping site, a session cookie (containing a random session ID) is set in your browser. The server maps this ID to your session record in Redis to authenticate your shopping cart.</div>
+
+          <div class="section-label">Step-by-Step Process</div>
+          <div class="step-row"><div class="step-num">1</div><div class="step-text">User logs in with credentials. Authentication succeeds</div></div>
+          <div class="step-row"><div class="step-num">2</div><div class="step-text">Server generates a token containing user data and signs it with a secret key</div></div>
+          <div class="step-row"><div class="step-num">3</div><div class="step-text">Server responds back, sending the token to the client</div></div>
+          <div class="step-row"><div class="step-num">4</div><div class="step-text">Client stores it (localStorage or HTTP-only cookies) and sends it in API headers</div></div>
+          <div class="step-row"><div class="step-num">5</div><div class="step-text">API gateway verifies the token's cryptographic signature and validates expiration</div></div>
+
+          <div class="section-label">Strengths &amp; Weaknesses</div>
+          <div class="pros-cons">
+            <div class="pros">
+              <div class="pros-title">Strengths</div>
+              <div class="pc-item">+ Stateless validation (servers don't need a DB lookup)</div>
+              <div class="pc-item">+ Standardized structure (JSON, easy to pass in headers)</div>
+              <div class="pc-item">+ Works across different domains and microservices</div>
+            </div>
+            <div class="cons">
+              <div class="cons-title">Limitations</div>
+              <div class="pc-item">− Revocation is difficult before token naturally expires</div>
+              <div class="pc-item">− If key is compromised, attackers can mint arbitrary tokens</div>
+              <div class="pc-item">− Storing in localStorage exposes token to XSS attacks</div>
+            </div>
+          </div>
+
+          <div class="section-label">Related Terms</div>
+          <div class="tag-row">
+            <span class="tag">JWT</span>
+            <span class="tag">Bearer Token</span>
+            <span class="tag">Access Token</span>
+            <span class="tag">Refresh Token</span>
+            <span class="tag">HMAC-SHA256</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ══════════════════════════════════════════════════
+           INTERACTIVE LABS SECTION
+      ══════════════════════════════════════════════════ -->
+      <section class="topic-section" id="simulators">
+        <h2 class="section-divider-title">
+          <i class="ti ti-flask"></i> Interactive Security Labs
+        </h2>
+        <p class="section-divider-desc">Test your understanding by interacting with live security mechanisms in real-time. Toggle roles, verify OTPs, audit signatures, and watch the logs.</p>
+
+        <!-- Lab Navigation Tabs -->
+        <div class="lab-tabs">
+          <button class="lab-tab active" data-tab="tab-aaa"><i class="ti ti-topology-star"></i> AAA &amp; Auth</button>
+          <button class="lab-tab" data-tab="tab-otp"><i class="ti ti-device-mobile"></i> MFA &amp; OTP</button>
+          <button class="lab-tab" data-tab="tab-biometric"><i class="ti ti-fingerprint"></i> Biometric FAR/FRR</button>
+          <button class="lab-tab" data-tab="tab-rbac"><i class="ti ti-checkbox"></i> RBAC Rules</button>
+          <button class="lab-tab" data-tab="tab-sso"><i class="ti ti-login"></i> SSO Stepper</button>
+          <button class="lab-tab" data-tab="tab-jwt"><i class="ti ti-id-badge"></i> JWT Inspector</button>
+        </div>
+
+        <!-- TAB CONTENT: AAA & AUTH -->
+        <div class="lab-content active" id="tab-aaa">
+          <div class="lab-grid">
+            <div class="lab-card">
+              <h4>AAA Playground Login</h4>
+              <p class="lab-desc">Login with one of the mock accounts, then attempt an action to see AAA logs in real-time.</p>
+              
+              <div class="mock-accounts-legend">
+                <h5>Mock Users Database</h5>
+                <ul>
+                  <li><strong>alice / password123</strong> (Role: Admin)</li>
+                  <li><strong>bob / password456</strong> (Role: Editor)</li>
+                  <li><strong>clara / password789</strong> (Role: Viewer)</li>
+                </ul>
+              </div>
+
+              <form class="simulator-form" id="auth-form">
+                <div class="form-group">
+                  <label for="auth-username">Username</label>
+                  <input type="text" id="auth-username" placeholder="Enter username" required="">
+                </div>
+                <div class="form-group">
+                  <label for="auth-password">Password</label>
+                  <input type="password" id="auth-password" placeholder="Enter password" required="">
+                </div>
+                <button type="submit" class="lab-btn" id="btn-login-sandbox">Authenticate (Log In)</button>
+              </form>
+
+              <div class="user-status-card" id="user-status-card">
+                <span>Active User: <strong id="active-user-display" class="text-red">Guest</strong></span>
+                <span>Role: <strong id="active-role-display">None</strong></span>
+              </div>
+
+              <div class="action-buttons-group">
+                <h5>Resource Actions (Trigger Authorization Checks)</h5>
+                <div class="btn-grid">
+                  <button class="action-btn" data-action="view_db"><i class="ti ti-database"></i> Read database</button>
+                  <button class="action-btn" data-action="edit_record"><i class="ti ti-edit"></i> Edit record</button>
+                  <button class="action-btn" data-action="delete_db"><i class="ti ti-trash"></i> Drop Database</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Terminal Logger -->
+            <div class="lab-card terminal-card">
+              <div class="terminal-header">
+                <div class="terminal-dots">
+                  <span class="dot dot-r"></span>
+                  <span class="dot dot-y"></span>
+                  <span class="dot dot-g"></span>
+                </div>
+                <span class="terminal-title">AAA Authentication &amp; Accounting Audits</span>
+                <button class="clear-terminal-btn" id="btn-clear-aaa-logs"><i class="ti ti-eraser"></i> Clear</button>
+              </div>
+              <div class="terminal-body" id="aaa-terminal-logs">
+                <div class="log-line log-info">[SYSTEM] AAA Gateway initialized. Guest session started.</div>
+                <div class="log-line log-warning">[AUDIT] Unauthorized access attempts will be logged.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- TAB CONTENT: MFA & OTP -->
+        <div class="lab-content" id="tab-otp">
+          <div class="lab-grid-otp">
+            <!-- Simulated Login Webpage -->
+            <div class="lab-card login-card-mock">
+              <div class="card-brand">
+                <i class="ti ti-shield-check"></i> SecAuth Secure Bank
+              </div>
+              
+              <div id="otp-step-1">
+                <h4>Step 1: Primary Authentication</h4>
+                <div class="form-group">
+                  <label>Username</label>
+                  <input type="text" value="alice@bank.com" disabled="">
+                </div>
+                <div class="form-group">
+                  <label>Password</label>
+                  <input type="password" value="••••••••••••" disabled="">
+                </div>
+                <button class="lab-btn" id="btn-otp-primary-login">Sign In</button>
+              </div>
+
+              <div id="otp-step-2" class="hidden">
+                <h4>Step 2: Two-Factor Verification</h4>
+                <p class="otp-sub-text">Enter the 6-digit TOTP code generated on your authenticator device.</p>
+                <div class="form-group">
+                  <label for="otp-code-input">One-Time Password Code</label>
+                  <input type="text" id="otp-code-input" placeholder="e.g. 123456" maxlength="6">
+                </div>
+                <div class="otp-action-row">
+                  <button class="lab-btn btn-secondary" id="btn-otp-back">Back</button>
+                  <button class="lab-btn" id="btn-otp-verify-submit">Verify Identity</button>
+                </div>
+                <div class="otp-status-msg" id="otp-web-status"></div>
+              </div>
+            </div>
+
+            <!-- Virtual Smart Phone -->
+            <div class="mobile-mockup-wrapper">
+              <div class="mobile-device">
+                <div class="speaker"></div>
+                <div class="screen">
+                  <div class="phone-header">
+                    <span class="phone-time" id="phone-time">09:02</span>
+                    <span class="phone-icons"><i class="ti ti-wifi"></i> <i class="ti ti-battery-4"></i></span>
+                  </div>
+                  <div class="phone-body">
+                    <div class="authenticator-app">
+                      <div class="app-title-bar">
+                        <i class="ti ti-shield"></i> SecAuth Authenticator
+                      </div>
+                      
+                      <div class="totp-entry">
+                        <div class="entry-header">
+                          <span class="entry-issuer">SecAuth Bank</span>
+                          <span class="entry-account">alice@bank.com</span>
+                        </div>
+                        <div class="totp-digits-row">
+                          <span class="totp-code" id="phone-totp-display">--- ---</span>
+                        </div>
+                        <div class="totp-timer-row">
+                          <div class="totp-timer-bar" id="totp-timer-bar"></div>
+                          <span class="totp-seconds-label" id="totp-seconds-display">30s</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="home-indicator"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- TAB CONTENT: BIOMETRICS -->
+        <div class="lab-content" id="tab-biometric">
+          <div class="lab-grid">
+            <div class="lab-card">
+              <h4>Biometrics Threshold Calibration</h4>
+              <p class="lab-desc">Adjust the FAR and FRR sliders. As you increase sensitivity to block imposters (low FAR), you increase the chance of blocking legitimate users (high FRR).</p>
+              
+              <div class="slider-group">
+                <div class="slider-header">
+                  <label for="slider-far">False Acceptance Rate (FAR) - Security Level</label>
+                  <span class="slider-val" id="val-far">0.0101%</span>
+                </div>
+                <input type="range" id="slider-far" min="0.0001" max="5.0" step="0.01" value="0.01">
+                <span class="slider-help">Lower FAR = Harder for an imposter to guess, but more likely to deny owners.</span>
+              </div>
+
+              <div class="slider-group">
+                <div class="slider-header">
+                  <label for="slider-frr">False Rejection Rate (FRR) - Convenience Level</label>
+                  <span class="slider-val text-muted" id="val-frr">0.79%</span>
+                </div>
+                <input type="range" id="slider-frr" min="0.01" max="15.0" step="0.05" value="0.5" disabled="">
+                <span class="slider-help">Calculated automatically as a trade-off curve based on FAR sensitivity.</span>
+              </div>
+
+              <div class="profile-selection">
+                <h5>Choose Scan Subject Profile</h5>
+                <div class="profiles-list">
+                  <button class="profile-select-btn active" data-subject="owner">
+                    <i class="ti ti-user-check"></i> Legitimate Owner
+                  </button>
+                  <button class="profile-select-btn" data-subject="owner-wet">
+                    <i class="ti ti-droplet"></i> Owner (Wet/Dirty Finger)
+                  </button>
+                  <button class="profile-select-btn" data-subject="imposter">
+                    <i class="ti ti-user-exclamation"></i> Sophisticated Imposter
+                  </button>
+                </div>
+              </div>
+
+              <button class="lab-btn" id="btn-trigger-scan"><i class="ti ti-scan"></i> Perform Biometric Scan</button>
+            </div>
+
+            <!-- Visual Scanner -->
+            <div class="lab-card biometric-scanner-display">
+              <h4>Scanner Terminal</h4>
+              <div class="scanner-screen">
+                <div class="scanner-box" id="scanner-box">
+                  <img src="https://digitalinvestigation.in/intern/assets/biometrics_scan.png" alt="Biometrics scan display" class="scanner-image" id="scanner-image">
+                  <i class="ti ti-fingerprint scanner-icon" id="scanner-icon"></i>
+                  <div class="laser-line" id="laser-line"></div>
+                </div>
+                <div class="scanner-stats" id="scanner-status-text">Ready for scanning. Choose a profile.</div>
+                
+                <div class="matching-gauge">
+                  <div class="gauge-label">Match Score Similarity:</div>
+                  <div class="gauge-bar-wrapper">
+                    <div class="gauge-bar" id="similarity-gauge-bar" style="width: 0%;"></div>
+                  </div>
+                  <div class="gauge-percent" id="similarity-score-text">0%</div>
+                </div>
+
+                <div class="threshold-marker">
+                  <span>Rejection Threshold: <strong id="threshold-val-display">84%</strong></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- TAB CONTENT: RBAC -->
+        <div class="lab-content" id="tab-rbac">
+          <div class="lab-card">
+            <h4>Dynamic RBAC Policy Designer</h4>
+            <p class="lab-desc">Configure permissions globally for Admin, Editor, and Viewer roles below. These policy changes immediately inject into the "AAA Playground Login" simulator tab above.</p>
+            
+            <div class="table-responsive">
+              <table class="rbac-matrix-table" id="rbac-matrix">
+                <thead>
+                  <tr>
+                    <th>Role</th>
+                    <th>Read Database <br><small>DB_VIEW</small></th>
+                    <th>Edit Database <br><small>DB_EDIT</small></th>
+                    <th>Drop Database <br><small>DB_DELETE</small></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="role-cell"><i class="ti ti-user-shield text-red"></i> Admin</td>
+                    <td><input type="checkbox" id="p-admin-read" checked=""></td>
+                    <td><input type="checkbox" id="p-admin-edit" checked=""></td>
+                    <td><input type="checkbox" id="p-admin-delete" checked=""></td>
+                  </tr>
+                  <tr>
+                    <td class="role-cell"><i class="ti ti-edit text-amber"></i> Editor</td>
+                    <td><input type="checkbox" id="p-editor-read" checked=""></td>
+                    <td><input type="checkbox" id="p-editor-edit" checked=""></td>
+                    <td><input type="checkbox" id="p-editor-delete"></td>
+                  </tr>
+                  <tr>
+                    <td class="role-cell"><i class="ti ti-user text-blue"></i> Viewer</td>
+                    <td><input type="checkbox" id="p-viewer-read" checked=""></td>
+                    <td><input type="checkbox" id="p-viewer-edit"></td>
+                    <td><input type="checkbox" id="p-viewer-delete"></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            
+            <div class="rbac-save-indicator" id="rbac-policy-status">
+              <i class="ti ti-cloud-check text-green"></i> Policy rules updated and synced with Auth database. Try executing actions in the AAA tab!
+            </div>
+          </div>
+        </div>
+
+        <!-- TAB CONTENT: SSO STEPPER -->
+        <div class="lab-content" id="tab-sso">
+          <div class="lab-card">
+            <h4>Interactive Federated OIDC SSO Redirect Stepper</h4>
+            <p class="lab-desc">Watch how SSO transfers auth tokens between the client browser, corporate Zoom, and your company's Identity Provider (Okta).</p>
+            
+            <div class="sso-visualizer-container">
+              <!-- Node Browser -->
+              <div class="sso-node active" id="sso-node-browser">
+                <i class="ti ti-device-laptop"></i>
+                <div class="node-title">User Browser</div>
+                <div class="node-ip">192.168.1.45</div>
+              </div>
+
+              <!-- Connector arrows -->
+              <div class="sso-channel">
+                <div class="channel-arrow channel-to-sp" id="channel-browser-sp"></div>
+                <div class="channel-arrow channel-to-browser" id="channel-sp-browser"></div>
+              </div>
+
+              <!-- Node Zoom (SP) -->
+              <div class="sso-node" id="sso-node-sp">
+                <i class="ti ti-video"></i>
+                <div class="node-title">Service Provider</div>
+                <div class="node-sub">Zoom Client</div>
+              </div>
+
+              <!-- Connector arrows -->
+              <div class="sso-channel vertical-channel">
+                <div class="channel-arrow channel-to-idp" id="channel-browser-idp"></div>
+                <div class="channel-arrow channel-from-idp" id="channel-idp-browser"></div>
+              </div>
+
+              <!-- Node Okta (IdP) -->
+              <div class="sso-node" id="sso-node-idp">
+                <i class="ti ti-shield"></i>
+                <div class="node-title">Identity Provider</div>
+                <div class="node-sub">Okta Auth Server</div>
+              </div>
+            </div>
+
+            <!-- Stepper controls -->
+            <div class="sso-controls-row">
+              <button class="lab-btn btn-secondary" id="btn-sso-prev" disabled="">Previous Step</button>
+              <span class="sso-step-indicator" id="sso-step-indicator">Step 1 of 6</span>
+              <button class="lab-btn" id="btn-sso-next">Next Step</button>
+              <button class="lab-btn btn-secondary" id="btn-sso-reset">Reset Flow</button>
+            </div>
+
+            <!-- Stepper explain card -->
+            <div class="sso-explain-box" id="sso-explain-text">
+              <strong>Step 1: Accessing Zoom.</strong> The employee opens the Zoom application and clicks "Login with SSO." No local session exists, so the client app prepares to redirect the user to authenticate centrally.
+            </div>
+          </div>
+        </div>
+
+        <!-- TAB CONTENT: JWT INSPECTOR -->
+        <div class="lab-content" id="tab-jwt">
+          <div class="lab-grid-jwt">
+            <div class="lab-card">
+              <h4>Encoded JWT String (Encoded Base64URL)</h4>
+              <p class="lab-desc">Tamper with this base64 JWT payload token on the right to see if the signature verification fails on the server!</p>
+              
+              <div class="jwt-encoded-box">
+                <span class="jwt-header-part" id="jwt-enc-header">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9</span>.<span class="jwt-payload-part" id="jwt-enc-payload">eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkFsaWNlIiwicm9sZSI6ImFkbWluIiwiZXhwIjoxNzg5OTk5OTk5fQ</span>.<span class="jwt-signature-part" id="jwt-enc-signature">NjZhZjE0ZDZDcnlwdG9ITUFDU2lnSGFzaFN0cmluZ1NlY3JldEtleXM</span>
+              </div>
+
+              <div class="jwt-server-check-card">
+                <h5>Server Verification Output</h5>
+                <div class="jwt-status-badge badge-success" id="jwt-verification-badge"><i class="ti ti-circle-check"></i> Valid Token (Signature Verified)</div>
+                <div class="jwt-status-desc" id="jwt-verification-desc">Algorithm: HMAC-SHA256. The payload matches the cryptographic signature created using the server's private secret.</div>
+              </div>
+            </div>
+
+            <!-- Editable JSON Payload -->
+            <div class="lab-card">
+              <h4>Decoded Decryptor &amp; Editor</h4>
+              
+              <div class="decoded-section">
+                <div class="decoded-title text-red">HEADER: <small>ALGORITHM &amp; TOKEN TYPE</small></div>
+                <pre class="decoded-code"><code>{
+  "alg": "HS256",
+  "typ": "JWT"
+}</code></pre>
+              </div>
+
+              <div class="decoded-section">
+                <div class="decoded-title text-purple">PAYLOAD: <small>CLAIMS &amp; DATA (EDITABLE)</small></div>
+                <div class="form-group-compact">
+                  <label for="jwt-payload-sub">Subject (User ID)</label>
+                  <input type="text" id="jwt-payload-sub" value="1234567890">
+                </div>
+                <div class="form-group-compact">
+                  <label for="jwt-payload-name">User Name</label>
+                  <input type="text" id="jwt-payload-name" value="Alice">
+                </div>
+                <div class="form-group-compact">
+                  <label for="jwt-payload-role">Role Claims</label>
+                  <select id="jwt-payload-role">
+                    <option value="admin" selected="">admin</option>
+                    <option value="editor">editor</option>
+                    <option value="viewer">viewer</option>
+                  </select>
+                </div>
+                <div class="form-group-compact">
+                  <label for="jwt-payload-exp">Expiration Time (Epoch)</label>
+                  <input type="number" id="jwt-payload-exp" value="1789999999">
+                </div>
+              </div>
+
+              <div class="decoded-section">
+                <div class="decoded-title text-blue">VERIFICATION SECRET KEY</div>
+                <div class="form-group-compact">
+                  <input type="text" id="jwt-secret-input" value="SuperSecretAuthKey2026">
+                  <small class="slider-help">Changing this secret will instantly invalidate the signature above unless verified with the matching key.</small>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ══════════════════════════════════════════════════
+           QUIZ SECTION
+      ══════════════════════════════════════════════════ -->
+      <section class="topic-section" id="quiz-section">
+        <div class="card quiz-card">
+          <div class="quiz-welcome-view" id="quiz-welcome-view">
+            <h2 class="quiz-title">
+              <i class="ti ti-award text-amber"></i> Security Access Control Certification Quiz
+            </h2>
+            <p class="quiz-intro-text">Ready to test your knowledge? This assessment comprises 10 questions covering all 12 core concepts. Pass with <strong>80% or higher (8+ correct)</strong> to earn your digital certification certificate.</p>
+            
+            <div class="quiz-stats-cards">
+              <div class="stat-mini">
+                <i class="ti ti-help"></i>
+                <div>
+                  <strong>10</strong>
+                  <span>Questions</span>
+                </div>
+              </div>
+              <div class="stat-mini">
+                <i class="ti ti-percentage"></i>
+                <div>
+                  <strong>80%</strong>
+                  <span>Passing Score</span>
+                </div>
+              </div>
+              <div class="stat-mini">
+                <i class="ti ti-clock"></i>
+                <div>
+                  <strong>No limit</strong>
+                  <span>Timer</span>
+                </div>
+              </div>
+            </div>
+
+            <button class="lab-btn" id="btn-start-quiz">Start Assessment</button>
+          </div>
+
+          <!-- Active Question View -->
+          <div class="quiz-question-view hidden" id="quiz-question-view">
+            <div class="quiz-header-status">
+              <span id="quiz-progress-label">Question 1 of 10</span>
+              <div class="quiz-progress-bar-wrapper">
+                <div class="quiz-progress-bar" id="quiz-progress-bar" style="width: 10%;"></div>
+              </div>
+            </div>
+
+            <h3 class="quiz-question-text" id="quiz-question-text">Question content will be dynamically injected here...</h3>
+            
+            <div class="quiz-options-list" id="quiz-options-list">
+              <!-- Options buttons injected via JS -->
+            </div>
+
+            <div class="quiz-explanation-box hidden" id="quiz-explanation-box">
+              <div class="explanation-title" id="quiz-feedback-title">Correct!</div>
+              <p class="explanation-text" id="quiz-explanation-text">Explanation content goes here.</p>
+            </div>
+
+            <div class="quiz-action-footer">
+              <button class="lab-btn" id="btn-quiz-next" disabled="">Next Question</button>
+            </div>
+          </div>
+
+          <!-- Quiz Results / Certificate View -->
+          <div class="quiz-result-view hidden" id="quiz-result-view">
+            <h2 class="quiz-title"><i class="ti ti-trophy text-amber"></i> Assessment Completed</h2>
+            
+            <div class="quiz-score-badge" id="quiz-score-badge">8 / 10</div>
+            <p class="quiz-result-feedback" id="quiz-result-feedback">Congratulations, you passed and earned your certification!</p>
+            
+            <!-- Certificate Mockup -->
+            <div class="certificate-container" id="certificate-container">
+              <div class="cert-border">
+                <div class="cert-body">
+                  <div class="cert-logo"><i class="ti ti-shield-lock"></i></div>
+                  <div class="cert-title">CERTIFICATE OF COMPLETION</div>
+                  <div class="cert-sub">This is proudly awarded to</div>
+                  <div class="cert-name" id="cert-user-name">Security Champion</div>
+                  <div class="cert-desc">for successfully completing the comprehensive examination on</div>
+                  <div class="cert-course">Authentication &amp; Access Control Frameworks</div>
+                  <div class="cert-date" id="cert-date">June 5, 2026</div>
+                  <div class="cert-signatures">
+                    <div class="sig">
+                      <span class="sig-line">Antigravity AI</span>
+                      <small>Exam Proctor</small>
+                    </div>
+                    <div class="sig">
+                      <span class="sig-line">Team G Security</span>
+                      <small>Review Board</small>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="cert-input-row" id="cert-input-row">
+              <div class="form-group-compact">
+                <label for="input-cert-name">Customize Certificate Name</label>
+                <input type="text" id="input-cert-name" placeholder="Enter your full name" value="Security Champion">
+              </div>
+            </div>
+
+            <button class="lab-btn" id="btn-quiz-restart">Retake Quiz</button>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Main JavaScript File -->
+  
+
+
+
+        </div>
+        
+        
+    
+    
+    </body></html>
+------MultipartBoundary--lwbYYg7T4oZhJttiYNff9QIcu7m3gk6ivDhY8djebD----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css
+
+@charset "utf-8";
+
+
+------MultipartBoundary--lwbYYg7T4oZhJttiYNff9QIcu7m3gk6ivDhY8djebD----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&family=Fira+Code:wght@400;500&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh0NSDulI.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh2dSDulI.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh0dSDulI.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh3tSDulI.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bhZ_Wmh2uX.woff2") format("woff2"); unicode-range: U+2000-2001, U+2004-2008, U+200A, U+23B8-23BD, U+2500-259F; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh09SDulI.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh3dSD.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh0NSDulI.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh2dSDulI.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh0dSDulI.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh3tSDulI.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bhZ_Wmh2uX.woff2") format("woff2"); unicode-range: U+2000-2001, U+2004-2008, U+200A, U+23B8-23BD, U+2500-259F; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh09SDulI.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Fira Code"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh3dSD.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Outfit; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJuktqQ4E.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Outfit; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Outfit; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJuktqQ4E.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Outfit; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Outfit; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJuktqQ4E.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Outfit; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Outfit; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJuktqQ4E.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Outfit; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--lwbYYg7T4oZhJttiYNff9QIcu7m3gk6ivDhY8djebD----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Share Tech Mono"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sharetechmono/v16/J7aHnp1uDWRBEqV98dVQztYldFcLowEF.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--lwbYYg7T4oZhJttiYNff9QIcu7m3gk6ivDhY8djebD----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-6afa7738-ec2e-4365-ad1a-a0e7c1fdfe36@mhtml.blink
+
+@charset "utf-8";
+
+*, ::before, ::after { box-sizing: border-box; margin: 0px; padding: 0px; transition: background-color 0.3s, border-color 0.3s, color 0.3s, transform 0.2s, opacity 0.2s; }
+
+:root { --font-sans: 'Inter', system-ui, -apple-system, sans-serif; --font-display: 'Outfit', sans-serif; --font-mono: 'Fira Code', monospace; --radius-lg: 16px; --radius-md: 12px; --radius-sm: 8px; --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.05); --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.08); --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.15); }
+
+body.light-mode { --bg-app: #f4f6fa; --bg-card: #ffffff; --bg-sidebar: #ffffff; --bg-nested: #f8fafc; --border-main: #e2e8f0; --border-light: #f1f5f9; --text-main: #0f172a; --text-muted: #475569; --text-light: #94a3b8; --glass-bg: rgba(255, 255, 255, 0.7); --glass-border: rgba(15, 23, 42, 0.08); --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.04); }
+
+body.dark-mode { --bg-app: #0b0f17; --bg-card: #131924; --bg-sidebar: #0e121b; --bg-nested: #182030; --border-main: #222b3c; --border-light: #1c2433; --text-main: #f8fafc; --text-muted: #94a3b8; --text-light: #475569; --glass-bg: rgba(19, 25, 36, 0.7); --glass-border: rgba(255, 255, 255, 0.05); --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3); }
+
+body.theme-blue { --primary: #2563eb; --primary-hover: #1d4ed8; --primary-light: #dbeafe; --primary-rgb: 37, 99, 235; --accent-bg: rgba(37, 99, 235, 0.1); --accent-text: #3b82f6; }
+
+body.theme-blue.dark-mode { --primary: #3b82f6; --primary-hover: #60a5fa; --primary-light: rgba(59, 130, 246, 0.15); --primary-rgb: 59, 130, 246; }
+
+body.theme-purple { --primary: #7c3aed; --primary-hover: #6d28d9; --primary-light: #ede9fe; --primary-rgb: 124, 58, 237; --accent-bg: rgba(124, 58, 237, 0.1); --accent-text: #8b5cf6; }
+
+body.theme-purple.dark-mode { --primary: #8b5cf6; --primary-hover: #a78bfa; --primary-light: rgba(139, 92, 246, 0.15); --primary-rgb: 139, 92, 246; }
+
+body.theme-emerald { --primary: #059669; --primary-hover: #047857; --primary-light: #d1fae5; --primary-rgb: 5, 150, 105; --accent-bg: rgba(5, 150, 105, 0.1); --accent-text: #10b981; }
+
+body.theme-emerald.dark-mode { --primary: #10b981; --primary-hover: #34d399; --primary-light: rgba(16, 185, 129, 0.15); --primary-rgb: 16, 185, 129; }
+
+body.theme-crimson { --primary: #e11d48; --primary-hover: #be123c; --primary-light: #ffe4e6; --primary-rgb: 225, 29, 72; --accent-bg: rgba(225, 29, 72, 0.1); --accent-text: #f43f5e; }
+
+body.theme-crimson.dark-mode { --primary: #f43f5e; --primary-hover: #fb7185; --primary-light: rgba(244, 63, 94, 0.15); --primary-rgb: 244, 63, 94; }
+
+body.theme-amber { --primary: #d97706; --primary-hover: #b45309; --primary-light: #fef3c7; --primary-rgb: 217, 119, 6; --accent-bg: rgba(217, 119, 6, 0.1); --accent-text: #f59e0b; }
+
+body.theme-amber.dark-mode { --primary: #f59e0b; --primary-hover: #fbbf24; --primary-light: rgba(245, 158, 11, 0.15); --primary-rgb: 245, 158, 11; }
+
+body { --blue: #2563eb; --blue-bg: rgba(37, 99, 235, 0.12); --green: #10b981; --green-bg: rgba(16, 185, 129, 0.12); --amber: #f59e0b; --amber-bg: rgba(245, 158, 11, 0.12); --red: #ef4444; --red-bg: rgba(239, 68, 68, 0.12); --purple: #8b5cf6; --purple-bg: rgba(139, 92, 246, 0.12); --teal: #14b8a6; --teal-bg: rgba(20, 184, 166, 0.12); }
+
+body { font-family: var(--font-sans); background-color: var(--bg-app); color: var(--text-main); line-height: 1.6; overflow-x: hidden; }
+
+.app-container { display: grid; grid-template-columns: 280px 1fr; min-height: 100vh; }
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+
+::-webkit-scrollbar-track { background: var(--bg-app); }
+
+::-webkit-scrollbar-thumb { background: var(--border-main); border-radius: var(--radius-sm); }
+
+::-webkit-scrollbar-thumb:hover { background: var(--text-light); }
+
+.sidebar { background-color: var(--bg-sidebar); border-right: 1px solid var(--border-main); padding: 1.5rem 1rem; position: sticky; top: 0px; height: 100vh; display: flex; flex-direction: column; overflow-y: auto; z-index: 100; }
+
+.sidebar-header { margin-bottom: 2rem; padding-left: 0.5rem; }
+
+.logo { display: flex; align-items: center; gap: 10px; font-family: var(--font-display); font-size: 20px; font-weight: 700; }
+
+.logo-icon { color: var(--primary); font-size: 24px; }
+
+.logo-accent { color: var(--primary); }
+
+.logo-sub { font-size: 11px; color: var(--text-light); letter-spacing: 0.05em; text-transform: uppercase; font-weight: 600; margin-top: 2px; }
+
+.progress-widget { background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: var(--radius-md); padding: 1rem; margin-bottom: 2rem; display: flex; align-items: center; gap: 12px; }
+
+.progress-circle-container { position: relative; width: 54px; height: 54px; flex-shrink: 0; }
+
+.progress-circle { width: 100%; height: 100%; transform: rotate(-90deg); }
+
+.progress-circle circle { fill: none; stroke-width: 8px; }
+
+.progress-circle .circle-bg { stroke: var(--border-main); }
+
+.progress-circle .circle-fill { stroke: var(--primary); stroke-linecap: round; stroke-dasharray: 263.89; stroke-dashoffset: 263.89; transition: stroke-dashoffset 0.4s; }
+
+.progress-percentage { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 12px; font-weight: 700; font-family: var(--font-display); }
+
+.progress-label-container { display: flex; flex-direction: column; }
+
+.progress-label { font-size: 13px; font-weight: 600; color: var(--text-main); }
+
+.progress-sub { font-size: 11px; color: var(--text-muted); margin-top: 1px; }
+
+.nav-section-title { font-size: 10px; font-weight: 700; text-transform: uppercase; color: var(--text-light); letter-spacing: 0.08em; margin-top: 1rem; margin-bottom: 0.5rem; padding-left: 0.5rem; display: block; }
+
+.nav-links-list { display: flex; flex-direction: column; gap: 4px; margin-bottom: 1.5rem; }
+
+.nav-item { display: flex; align-items: center; gap: 10px; padding: 0.6rem 0.75rem; border-radius: var(--radius-sm); color: var(--text-muted); text-decoration: none; font-size: 13px; font-weight: 500; cursor: pointer; }
+
+.nav-item:hover { background-color: var(--bg-nested); color: var(--text-main); }
+
+.nav-item.active { background-color: var(--primary-light); color: var(--primary); font-weight: 600; }
+
+.nav-checkbox { width: 16px; height: 16px; border: 1.5px solid var(--text-light); border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 10px; color: transparent; flex-shrink: 0; background: transparent; }
+
+.nav-item.active .nav-checkbox { border-color: var(--primary); }
+
+.nav-checkbox.checked { background-color: var(--primary); border-color: var(--primary); color: rgb(255, 255, 255) !important; }
+
+.nav-special { color: var(--text-main); background-color: var(--border-light); border: 1px solid var(--border-main); }
+
+.nav-special:hover { background-color: var(--border-main); }
+
+.nav-icon { font-size: 16px; color: var(--primary); }
+
+.main-content { padding: 2.5rem 3rem 5rem; max-width: 1000px; width: 100%; margin-inline: auto; }
+
+.hero { background: linear-gradient(135deg, rgba(244, 246, 250, 0.93) 0%, rgba(255, 255, 255, 0.88) 100%), url("assets/security_hero_banner.png") center center / cover no-repeat; border: 1px solid var(--border-main); border-radius: var(--radius-lg); padding: 2.5rem 3rem 2rem; margin-bottom: 3rem; box-shadow: var(--shadow-sm); position: relative; overflow: hidden; }
+
+body.dark-mode .hero { background: linear-gradient(135deg, rgba(11, 15, 23, 0.93) 0%, rgba(14, 18, 27, 0.88) 100%), url("assets/security_hero_banner.png") center center / cover no-repeat; }
+
+.hero::before { content: ""; position: absolute; top: 0px; right: 0px; width: 300px; height: 300px; background: radial-gradient(circle, rgba(var(--primary-rgb), 0.08) 0%, transparent 70%); z-index: 0; pointer-events: none; }
+
+.hero-title { font-family: var(--font-display); font-size: 30px; font-weight: 700; display: flex; align-items: center; gap: 12px; margin-bottom: 0.5rem; z-index: 1; position: relative; }
+
+.hero-title-icon { color: var(--primary); }
+
+.hero-sub { font-size: 15px; color: var(--text-muted); max-width: 680px; margin-bottom: 1.5rem; z-index: 1; position: relative; }
+
+.hero-badges { display: flex; gap: 12px; flex-wrap: wrap; z-index: 1; position: relative; }
+
+.hero-badge { font-size: 12px; font-weight: 600; padding: 5px 12px; border-radius: 20px; background-color: var(--bg-card); border: 1px solid var(--border-main); color: var(--text-muted); display: flex; align-items: center; gap: 6px; }
+
+.section-divider { border-right-width: medium; border-bottom-width: medium; border-left-width: medium; border-right-style: none; border-bottom-style: none; border-left-style: none; border-right-color: currentcolor; border-bottom-color: currentcolor; border-left-color: currentcolor; border-image: none; border-top: 1px dashed var(--border-main); margin: 3.5rem 0px; }
+
+.section-divider-title { font-family: var(--font-display); font-size: 24px; font-weight: 700; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 10px; }
+
+.section-divider-title i { color: var(--primary); }
+
+.section-divider-desc { font-size: 14px; color: var(--text-muted); margin-bottom: 2rem; max-width: 700px; }
+
+.topic-section { margin-bottom: 2.5rem; scroll-margin-top: 2rem; }
+
+.card { background-color: var(--bg-card); border: 1px solid var(--border-main); border-radius: var(--radius-lg); padding: 2rem; box-shadow: var(--shadow-sm); position: relative; }
+
+.card:hover { box-shadow: var(--shadow-md); border-color: rgba(var(--primary-rgb), 0.2); }
+
+.card-title { font-family: var(--font-display); font-size: 20px; font-weight: 700; display: flex; align-items: center; gap: 10px; margin-bottom: 1rem; flex-wrap: wrap; }
+
+.card-title i { color: var(--primary); font-size: 22px; }
+
+.badge { font-size: 10px; font-weight: 700; padding: 4px 10px; border-radius: 30px; text-transform: uppercase; letter-spacing: 0.05em; }
+
+.badge-blue { background-color: var(--blue-bg); color: var(--blue); }
+
+.badge-green { background-color: var(--green-bg); color: var(--green); }
+
+.badge-amber { background-color: var(--amber-bg); color: var(--amber); }
+
+.badge-red { background-color: var(--red-bg); color: var(--red); }
+
+.definition { font-size: 14.5px; color: var(--text-muted); margin-bottom: 1.5rem; line-height: 1.7; }
+
+.section-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-light); margin: 1.5rem 0px 0.75rem; display: block; }
+
+.example-box { background-color: var(--bg-nested); border-left: 3px solid var(--primary); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; padding: 0.85rem 1.25rem; font-size: 13px; color: var(--text-main); margin-bottom: 0.75rem; line-height: 1.7; }
+
+.example-box strong { color: var(--primary); font-weight: 600; }
+
+.step-row { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 10px; }
+
+.step-num { width: 24px; height: 24px; border-radius: 50%; background-color: var(--primary-light); color: var(--primary); font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+
+.step-text { font-size: 13.5px; color: var(--text-muted); padding-top: 2px; }
+
+.pros-cons { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 0.5rem; }
+
+.pros { border-left: 3px solid var(--green); padding: 1rem 1.25rem; background-color: var(--green-bg); border-radius: 0 var(--radius-md) var(--radius-md) 0; }
+
+.cons { border-left: 3px solid var(--red); padding: 1rem 1.25rem; background-color: var(--red-bg); border-radius: 0 var(--radius-md) var(--radius-md) 0; }
+
+.pros-title { font-size: 12px; font-weight: 700; color: var(--green); margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.05em; }
+
+.cons-title { font-size: 12px; font-weight: 700; color: var(--red); margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.05em; }
+
+.pc-item { font-size: 12.5px; color: var(--text-muted); line-height: 1.6; margin-bottom: 4px; }
+
+.pc-item:last-child { margin-bottom: 0px; }
+
+.tag-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 0.5rem; }
+
+.tag { font-size: 11px; padding: 4px 12px; background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: 20px; color: var(--text-muted); font-weight: 500; }
+
+.flow-svg { width: 100%; height: auto; overflow: visible; margin: 1rem 0px; background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: var(--radius-md); padding: 1rem; }
+
+.th { font-family: var(--font-display); font-weight: 600; font-size: 13px; fill: var(--text-main); }
+
+.ts { font-family: var(--font-sans); font-weight: 400; font-size: 11px; fill: var(--text-muted); }
+
+.arr { fill: none; stroke: var(--text-light); stroke-width: 1.5; }
+
+.c-blue rect { fill: var(--blue-bg); stroke: var(--blue); }
+
+.c-blue text.th { fill: var(--blue); }
+
+.c-green rect { fill: var(--green-bg); stroke: var(--green); }
+
+.c-green text.th { fill: var(--green); }
+
+.c-amber rect { fill: var(--amber-bg); stroke: var(--amber); }
+
+.c-amber text.th { fill: var(--amber); }
+
+.c-red rect { fill: var(--red-bg); stroke: var(--red); }
+
+.c-red text.th { fill: var(--red); }
+
+.c-purple rect { fill: var(--purple-bg); stroke: var(--purple); }
+
+.c-purple text.th { fill: var(--purple); }
+
+.c-teal rect { fill: var(--teal-bg); stroke: var(--teal); }
+
+.c-teal text.th { fill: var(--teal); }
+
+.c-gray rect { fill: var(--bg-nested); stroke: var(--border-main); }
+
+.c-gray text.th { fill: var(--text-main); }
+
+.c-coral rect { fill: rgb(252, 231, 243); stroke: rgb(219, 39, 119); }
+
+.c-coral text.th { fill: rgb(219, 39, 119); }
+
+body.dark-mode .c-coral rect { fill: rgba(219, 39, 119, 0.15); stroke: rgb(244, 114, 182); }
+
+body.dark-mode .c-coral text.th { fill: rgb(244, 114, 182); }
+
+.lab-tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 1.5rem; }
+
+.lab-tab { background-color: var(--bg-card); border: 1px solid var(--border-main); border-radius: var(--radius-sm); padding: 0.6rem 1rem; font-family: var(--font-display); font-size: 13px; font-weight: 600; color: var(--text-muted); cursor: pointer; display: flex; align-items: center; gap: 8px; }
+
+.lab-tab:hover { background-color: var(--bg-nested); color: var(--text-main); }
+
+.lab-tab.active { background-color: var(--primary); border-color: var(--primary); color: rgb(255, 255, 255); }
+
+.lab-content { display: none; }
+
+.lab-content.active { display: block; }
+
+.lab-card { background-color: var(--bg-card); border: 1px solid var(--border-main); border-radius: var(--radius-lg); padding: 1.75rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm); }
+
+.lab-card h4 { font-family: var(--font-display); font-size: 17px; font-weight: 700; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px; }
+
+.lab-desc { font-size: 13px; color: var(--text-muted); margin-bottom: 1.25rem; }
+
+.lab-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 1.5rem; }
+
+.lab-btn { background-color: var(--primary); border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: var(--radius-sm); color: rgb(255, 255, 255); padding: 0.75rem 1.25rem; font-size: 13px; font-weight: 600; font-family: var(--font-display); cursor: pointer; display: inline-flex; align-items: center; gap: 8px; justify-content: center; }
+
+.lab-btn:hover { background-color: var(--primary-hover); transform: translateY(-1px); }
+
+.lab-btn:active { transform: translateY(0px); }
+
+.lab-btn.btn-secondary { background-color: var(--bg-nested); border: 1px solid var(--border-main); color: var(--text-main); }
+
+.lab-btn.btn-secondary:hover { background-color: var(--border-main); }
+
+.form-group { margin-bottom: 1rem; }
+
+.form-group label { display: block; font-size: 12px; font-weight: 600; color: var(--text-muted); margin-bottom: 4px; }
+
+.form-group input, .form-group select { width: 100%; padding: 0.65rem 0.75rem; background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: var(--radius-sm); color: var(--text-main); font-size: 13.5px; font-family: var(--font-sans); }
+
+.form-group input:focus, .form-group select:focus { outline: none; border-color: var(--primary); }
+
+.mock-accounts-legend { background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: var(--radius-sm); padding: 0.75rem 1rem; margin-bottom: 1.25rem; }
+
+.mock-accounts-legend h5 { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 6px; letter-spacing: 0.05em; }
+
+.mock-accounts-legend ul { list-style: none; font-size: 12px; }
+
+.mock-accounts-legend li { margin-bottom: 4px; }
+
+.mock-accounts-legend li:last-child { margin-bottom: 0px; }
+
+.user-status-card { display: flex; justify-content: space-between; background-color: var(--border-light); border: 1px solid var(--border-main); border-radius: var(--radius-sm); padding: 0.75rem 1rem; font-size: 12.5px; margin-top: 1rem; }
+
+.action-buttons-group { margin-top: 1.25rem; }
+
+.action-buttons-group h5 { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 8px; letter-spacing: 0.05em; }
+
+.btn-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+
+.action-btn { background-color: var(--bg-nested); border: 1px solid var(--border-main); color: var(--text-main); font-size: 11px; font-weight: 600; padding: 8px; border-radius: var(--radius-sm); cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: 4px; }
+
+.action-btn:hover { background-color: var(--primary-light); border-color: var(--primary); color: var(--primary); }
+
+.action-btn.btn-danger:hover { background-color: var(--red-bg); border-color: var(--red); color: var(--red); }
+
+.terminal-card { background-color: rgb(12, 16, 23); border: 1px solid rgb(33, 38, 45); color: rgb(201, 209, 217); display: flex; flex-direction: column; height: 400px; padding: 0px; overflow: hidden; }
+
+.terminal-header { background-color: rgb(22, 27, 34); border-bottom: 1px solid rgb(33, 38, 45); padding: 8px 16px; display: flex; align-items: center; justify-content: space-between; flex-shrink: 0; }
+
+.terminal-dots { display: flex; gap: 6px; }
+
+.terminal-dots .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+
+.dot-r { background-color: rgb(248, 81, 73); }
+
+.dot-y { background-color: rgb(240, 136, 62); }
+
+.dot-g { background-color: rgb(86, 211, 100); }
+
+.terminal-title { font-size: 11.5px; font-weight: 600; font-family: var(--font-mono); color: rgb(139, 148, 158); }
+
+.clear-terminal-btn { background: transparent; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; color: rgb(139, 148, 158); font-size: 12px; cursor: pointer; display: flex; align-items: center; gap: 4px; }
+
+.clear-terminal-btn:hover { color: rgb(255, 255, 255); }
+
+.terminal-body { padding: 1rem; font-family: var(--font-mono); font-size: 12px; overflow-y: auto; flex-grow: 1; display: flex; flex-direction: column; gap: 6px; line-height: 1.5; }
+
+.log-line { word-break: break-all; }
+
+.log-info { color: rgb(88, 166, 255); }
+
+.log-success { color: rgb(86, 211, 100); }
+
+.log-warning { color: rgb(210, 153, 34); }
+
+.log-danger { color: rgb(248, 81, 73); }
+
+.lab-grid-otp { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center; }
+
+.login-card-mock { border: 2px solid var(--border-main); padding: 2rem; height: max-content; }
+
+.card-brand { font-family: var(--font-display); font-size: 18px; font-weight: 700; color: var(--primary); display: flex; align-items: center; gap: 8px; margin-bottom: 1.5rem; }
+
+.otp-sub-text { font-size: 12.5px; color: var(--text-muted); margin-top: 4px; margin-bottom: 1.25rem; }
+
+.otp-action-row { display: grid; grid-template-columns: 1fr 2fr; gap: 10px; margin-top: 1rem; }
+
+.otp-status-msg { margin-top: 1rem; padding: 8px 12px; border-radius: var(--radius-sm); font-size: 12.5px; display: none; }
+
+.mobile-mockup-wrapper { display: flex; justify-content: center; }
+
+.mobile-device { width: 260px; height: 480px; background-color: rgb(30, 41, 59); border: 10px solid rgb(15, 23, 42); border-radius: 36px; position: relative; box-shadow: var(--shadow-lg); overflow: hidden; flex-shrink: 0; }
+
+.mobile-device .speaker { width: 60px; height: 4px; background-color: rgb(71, 85, 105); border-radius: 2px; position: absolute; top: 12px; left: 50%; transform: translateX(-50%); z-index: 20; }
+
+.mobile-device .screen { width: 100%; height: 100%; background-color: rgb(11, 15, 25); padding-top: 24px; padding-bottom: 12px; display: flex; flex-direction: column; }
+
+.phone-header { padding: 4px 16px; display: flex; justify-content: space-between; font-size: 11px; font-weight: 600; color: rgb(148, 163, 184); z-index: 10; }
+
+.phone-icons { display: flex; gap: 4px; }
+
+.phone-body { flex-grow: 1; padding: 1rem 0.75rem; display: flex; flex-direction: column; }
+
+.authenticator-app { background-color: rgb(19, 29, 48); border: 1px solid rgb(30, 41, 59); border-radius: 16px; flex-grow: 1; display: flex; flex-direction: column; overflow: hidden; }
+
+.app-title-bar { background-color: rgb(30, 41, 59); padding: 10px; font-size: 12px; font-weight: 700; font-family: var(--font-display); color: rgb(255, 255, 255); display: flex; align-items: center; gap: 6px; }
+
+.totp-entry { padding: 1rem; display: flex; flex-direction: column; gap: 8px; margin-top: 1rem; }
+
+.entry-header { display: flex; flex-direction: column; }
+
+.entry-issuer { font-size: 13px; font-weight: 700; color: rgb(255, 255, 255); }
+
+.entry-account { font-size: 10.5px; color: rgb(148, 163, 184); }
+
+.totp-digits-row { margin: 10px 0px; }
+
+.totp-code { font-family: var(--font-display); font-size: 28px; font-weight: 700; color: var(--primary); letter-spacing: 0.05em; text-shadow: 0 0 10px rgba(var(--primary-rgb), 0.3); }
+
+.totp-timer-row { display: flex; align-items: center; gap: 8px; }
+
+.totp-timer-bar { flex-grow: 1; height: 6px; background-color: rgb(30, 41, 59); border-radius: 3px; overflow: hidden; position: relative; }
+
+.totp-timer-bar::after { content: ""; position: absolute; top: 0px; left: 0px; height: 100%; width: 100%; background-color: var(--primary); transition: width 1s linear; }
+
+.totp-seconds-label { font-size: 10.5px; color: rgb(148, 163, 184); width: 20px; text-align: right; }
+
+.home-indicator { width: 80px; height: 4px; background-color: rgb(100, 116, 139); border-radius: 2px; position: absolute; bottom: 8px; left: 50%; transform: translateX(-50%); z-index: 20; }
+
+.slider-group { margin-bottom: 1.25rem; }
+
+.slider-header { display: flex; justify-content: space-between; margin-bottom: 6px; }
+
+.slider-header label { font-size: 12px; font-weight: 600; }
+
+.slider-val { font-size: 12px; font-weight: 700; color: var(--primary); }
+
+.slider-group input[type="range"] { width: 100%; height: 6px; background-color: var(--bg-nested); border-radius: 3px; outline: none; appearance: none; }
+
+.slider-group input[type="range"]::-webkit-slider-thumb { appearance: none; width: 16px; height: 16px; border-radius: 50%; background-color: var(--primary); cursor: pointer; border: 2px solid var(--bg-card); box-shadow: var(--shadow-sm); }
+
+.slider-help { font-size: 10.5px; color: var(--text-light); display: block; margin-top: 4px; }
+
+.profile-selection { margin-top: 1.25rem; margin-bottom: 1.5rem; }
+
+.profile-selection h5 { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 8px; letter-spacing: 0.05em; }
+
+.profiles-list { display: flex; flex-direction: column; gap: 6px; }
+
+.profile-select-btn { background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: var(--radius-sm); padding: 0.6rem 0.85rem; font-size: 12.5px; font-weight: 500; color: var(--text-muted); text-align: left; cursor: pointer; display: flex; align-items: center; gap: 8px; }
+
+.profile-select-btn:hover { background-color: var(--border-light); }
+
+.profile-select-btn.active { border-color: var(--primary); background-color: var(--primary-light); color: var(--primary); font-weight: 600; }
+
+.biometric-scanner-display { display: flex; flex-direction: column; align-items: center; justify-content: center; }
+
+.scanner-screen { width: 100%; max-width: 280px; background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: var(--radius-md); padding: 1.5rem; display: flex; flex-direction: column; align-items: center; }
+
+.scanner-box { width: 130px; height: 130px; border: 2px solid var(--border-main); border-radius: var(--radius-md); background-color: var(--bg-card); position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; margin-bottom: 1rem; }
+
+.scanner-box.scanning { border-color: var(--primary); }
+
+.scanner-icon { font-size: 72px; color: var(--text-light); }
+
+.scanner-box.scanning .scanner-icon { color: var(--primary); text-shadow: 0 0 15px rgba(var(--primary-rgb), 0.4); }
+
+.scanner-box.success { border-color: var(--green); }
+
+.scanner-box.success .scanner-icon { color: var(--green); }
+
+.scanner-box.fail { border-color: var(--red); }
+
+.scanner-box.fail .scanner-icon { color: var(--red); }
+
+.scanner-image { position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; opacity: 0.15; transition: opacity 0.3s, filter 0.3s; z-index: 1; pointer-events: none; }
+
+.scanner-box.scanning .scanner-image { opacity: 0.85; }
+
+.scanner-box.success .scanner-image { opacity: 0.6; filter: hue-rotate(120deg) brightness(1.2); }
+
+.scanner-box.fail .scanner-image { opacity: 0.6; filter: hue-rotate(320deg) brightness(1.2); }
+
+.scanner-icon { z-index: 2; }
+
+.laser-line { z-index: 3; }
+
+.laser-line { position: absolute; top: 0px; left: 0px; width: 100%; height: 2px; background-color: var(--primary); box-shadow: 0 0 8px var(--primary); opacity: 0; pointer-events: none; }
+
+.scanner-box.scanning .laser-line { animation: 2s ease-in-out 0s infinite normal none running sweep; opacity: 1; }
+
+@keyframes sweep { 
+  0% { top: 0%; }
+  50% { top: 100%; }
+  100% { top: 0%; }
+}
+
+.scanner-stats { font-family: var(--font-mono); font-size: 11.5px; text-align: center; color: var(--text-muted); margin-bottom: 1rem; min-height: 36px; }
+
+.matching-gauge { width: 100%; margin-bottom: 0.75rem; }
+
+.gauge-label { font-size: 11px; font-weight: 600; color: var(--text-muted); margin-bottom: 4px; }
+
+.gauge-bar-wrapper { height: 8px; background-color: var(--border-main); border-radius: 4px; overflow: hidden; }
+
+.gauge-bar { height: 100%; width: 0%; background-color: var(--primary); border-radius: 4px; transition: width 0.5s; }
+
+.gauge-percent { font-family: var(--font-display); font-size: 14px; font-weight: 700; text-align: right; margin-top: 4px; }
+
+.threshold-marker { font-size: 11px; color: var(--text-light); border-top: 1px solid var(--border-main); width: 100%; text-align: center; padding-top: 6px; }
+
+.rbac-matrix-table { width: 100%; border-collapse: collapse; margin-top: 0.5rem; margin-bottom: 1.25rem; }
+
+.rbac-matrix-table th, .rbac-matrix-table td { padding: 10px 12px; border-bottom: 1px solid var(--border-main); text-align: center; }
+
+.rbac-matrix-table th { font-family: var(--font-display); font-size: 12px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; background-color: var(--bg-nested); }
+
+.rbac-matrix-table th small { font-family: var(--font-mono); font-size: 9.5px; color: var(--text-light); text-transform: none; }
+
+.rbac-matrix-table td.role-cell { font-family: var(--font-display); font-weight: 700; font-size: 14px; text-align: left; color: var(--text-main); }
+
+.rbac-matrix-table input[type="checkbox"] { width: 18px; height: 18px; cursor: pointer; accent-color: var(--primary); }
+
+.rbac-save-indicator { background-color: var(--green-bg); border: 1px solid var(--green); border-radius: var(--radius-sm); color: var(--green); padding: 10px 12px; font-size: 12.5px; display: flex; align-items: center; gap: 8px; }
+
+.sso-visualizer-container { display: flex; align-items: center; justify-content: space-between; background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: var(--radius-lg); padding: 2.5rem 1.5rem; margin-bottom: 1.5rem; position: relative; min-height: 240px; }
+
+.sso-node { background-color: var(--bg-card); border: 2px solid var(--border-main); border-radius: var(--radius-md); padding: 1rem; width: 130px; display: flex; flex-direction: column; align-items: center; text-align: center; z-index: 5; }
+
+.sso-node.active { border-color: var(--primary); box-shadow: 0 0 15px rgba(var(--primary-rgb), 0.2); }
+
+.sso-node.active i { color: var(--primary); }
+
+.sso-node i { font-size: 28px; color: var(--text-light); margin-bottom: 6px; }
+
+.node-title { font-family: var(--font-display); font-size: 12.5px; font-weight: 700; color: var(--text-main); }
+
+.node-sub, .node-ip { font-size: 10px; color: var(--text-muted); }
+
+.sso-channel { flex-grow: 1; height: 2px; border-top: 2px dashed var(--border-main); margin: 0px 10px; position: relative; }
+
+.channel-arrow { position: absolute; top: -6px; width: 10px; height: 10px; border-top: 2px solid var(--text-light); border-right: 2px solid var(--text-light); opacity: 0; }
+
+.channel-to-sp { right: 0px; transform: rotate(45deg); }
+
+.channel-to-browser { left: 0px; transform: rotate(-135deg); }
+
+.vertical-channel { position: absolute; top: 50%; left: 140px; width: 2px; height: 90px; border-left: 2px dashed var(--border-main); border-top-width: medium; border-top-style: none; border-top-color: currentcolor; margin: 0px; transform: translateX(-50%); }
+
+.vertical-channel .channel-arrow { left: -6px; width: 10px; height: 10px; }
+
+.channel-to-idp { bottom: 0px; transform: rotate(135deg); }
+
+.channel-from-idp { top: 0px; transform: rotate(-45deg); }
+
+#sso-node-idp { position: absolute; bottom: 15px; left: 75px; }
+
+.sso-node.auth-pulse { animation: 1.5s ease 0s infinite alternate none running ssoPulse; }
+
+@keyframes ssoPulse { 
+  0% { border-color: var(--primary); box-shadow: 0 0 5px rgba(var(--primary-rgb), 0.2); }
+  100% { border-color: var(--green); box-shadow: rgba(16, 185, 129, 0.4) 0px 0px 15px; }
+}
+
+.sso-controls-row { display: flex; align-items: center; gap: 12px; margin-bottom: 1.25rem; }
+
+.sso-step-indicator { font-family: var(--font-display); font-size: 13px; font-weight: 700; color: var(--text-muted); }
+
+.sso-explain-box { background-color: var(--bg-nested); border-left: 3px solid var(--primary); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; padding: 1rem 1.25rem; font-size: 13px; line-height: 1.6; }
+
+.lab-grid-jwt { display: grid; grid-template-columns: 1fr 1.2fr; gap: 1.5rem; }
+
+.jwt-encoded-box { background-color: rgb(11, 15, 25); border: 1px solid var(--border-main); border-radius: var(--radius-md); padding: 1rem; font-family: var(--font-mono); font-size: 11.5px; line-height: 1.6; word-break: break-all; margin-bottom: 1.5rem; }
+
+.jwt-header-part { color: rgb(255, 107, 107); font-weight: 600; }
+
+.jwt-payload-part { color: rgb(177, 151, 252); font-weight: 600; }
+
+.jwt-signature-part { color: rgb(77, 173, 247); font-weight: 600; }
+
+.jwt-server-check-card { border-top: 1px solid var(--border-main); padding-top: 1.25rem; }
+
+.jwt-server-check-card h5 { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 8px; letter-spacing: 0.05em; }
+
+.jwt-status-badge { padding: 6px 12px; border-radius: var(--radius-sm); font-size: 12px; font-weight: 700; display: inline-flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+
+.jwt-status-badge.badge-success { background-color: var(--green-bg); color: var(--green); }
+
+.jwt-status-badge.badge-danger { background-color: var(--red-bg); color: var(--red); }
+
+.jwt-status-desc { font-size: 12px; color: var(--text-muted); line-height: 1.5; }
+
+.decoded-section { margin-bottom: 1.25rem; border-bottom: 1px solid var(--border-light); padding-bottom: 1rem; }
+
+.decoded-section:last-child { margin-bottom: 0px; border-bottom-width: medium; border-bottom-style: none; border-bottom-color: currentcolor; padding-bottom: 0px; }
+
+.decoded-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+
+.decoded-title small { text-transform: none; font-weight: 500; }
+
+.decoded-code { background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: var(--radius-sm); padding: 8px 12px; font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); }
+
+.form-group-compact { margin-bottom: 6px; display: grid; grid-template-columns: 1.2fr 2fr; gap: 10px; align-items: center; }
+
+.form-group-compact label { font-size: 11.5px; font-weight: 600; color: var(--text-muted); }
+
+.form-group-compact input, .form-group-compact select { padding: 4px 8px; font-size: 11.5px; background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: 4px; color: var(--text-main); }
+
+.form-group-compact input:focus, .form-group-compact select:focus { outline: none; border-color: var(--primary); }
+
+.quiz-card { background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-nested) 100%); border: 2px solid var(--border-main); }
+
+.quiz-title { font-family: var(--font-display); font-size: 22px; font-weight: 700; display: flex; align-items: center; gap: 10px; margin-bottom: 0.75rem; }
+
+.quiz-intro-text { font-size: 14px; color: var(--text-muted); margin-bottom: 2rem; }
+
+.quiz-stats-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 2rem; }
+
+.stat-mini { background-color: var(--bg-card); border: 1px solid var(--border-main); border-radius: var(--radius-md); padding: 1rem; display: flex; align-items: center; gap: 12px; }
+
+.stat-mini i { font-size: 24px; color: var(--primary); }
+
+.stat-mini div { display: flex; flex-direction: column; }
+
+.stat-mini strong { font-family: var(--font-display); font-size: 16px; font-weight: 700; }
+
+.stat-mini span { font-size: 10.5px; color: var(--text-light); }
+
+.quiz-header-status { margin-bottom: 1.5rem; }
+
+#quiz-progress-label { font-size: 12px; font-weight: 600; color: var(--text-muted); display: block; margin-bottom: 6px; }
+
+.quiz-progress-bar-wrapper { height: 6px; background-color: var(--border-main); border-radius: 3px; overflow: hidden; }
+
+.quiz-progress-bar { height: 100%; width: 0%; background-color: var(--primary); border-radius: 3px; transition: width 0.3s; }
+
+.quiz-question-text { font-family: var(--font-display); font-size: 18px; font-weight: 700; margin-bottom: 1.25rem; }
+
+.quiz-options-list { display: flex; flex-direction: column; gap: 8px; margin-bottom: 1.5rem; }
+
+.quiz-option-btn { background-color: var(--bg-card); border: 1px solid var(--border-main); border-radius: var(--radius-sm); padding: 0.85rem 1.25rem; font-size: 13.5px; font-weight: 500; color: var(--text-main); text-align: left; cursor: pointer; display: flex; align-items: center; gap: 10px; }
+
+.quiz-option-btn:hover { background-color: var(--bg-nested); border-color: var(--text-light); }
+
+.quiz-option-btn.selected { border-color: var(--primary); background-color: var(--primary-light); color: var(--primary); font-weight: 600; }
+
+.quiz-option-btn.correct { border-color: var(--green); background-color: var(--green-bg); color: var(--green); font-weight: 600; }
+
+.quiz-option-btn.wrong { border-color: var(--red); background-color: var(--red-bg); color: var(--red); font-weight: 600; }
+
+.quiz-explanation-box { background-color: var(--bg-nested); border-left: 3px solid var(--primary); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; padding: 1rem 1.25rem; margin-bottom: 1.5rem; }
+
+.quiz-explanation-box.correct { border-left-color: var(--green); }
+
+.quiz-explanation-box.wrong { border-left-color: var(--red); }
+
+.explanation-title { font-size: 12px; font-weight: 700; text-transform: uppercase; margin-bottom: 4px; }
+
+.quiz-explanation-box.correct .explanation-title { color: var(--green); }
+
+.quiz-explanation-box.wrong .explanation-title { color: var(--red); }
+
+.explanation-text { font-size: 12.5px; color: var(--text-muted); line-height: 1.6; }
+
+.quiz-score-badge { font-family: var(--font-display); font-size: 48px; font-weight: 700; color: var(--primary); text-align: center; margin-bottom: 0.5rem; }
+
+.quiz-result-feedback { font-size: 15px; font-weight: 600; text-align: center; color: var(--text-muted); margin-bottom: 2rem; }
+
+.certificate-container { display: flex; justify-content: center; margin-bottom: 2rem; }
+
+.cert-border { width: 100%; max-width: 580px; background-color: rgb(251, 251, 251); border: 15px double rgb(197, 168, 128); padding: 10px; box-shadow: var(--shadow-lg); color: rgb(43, 43, 43); }
+
+body.dark-mode .cert-border { background-color: rgb(244, 244, 244); }
+
+.cert-body { border: 1px solid rgb(197, 168, 128); padding: 2.5rem 2rem; display: flex; flex-direction: column; align-items: center; text-align: center; background-image: radial-gradient(circle, rgba(197, 168, 128, 0.03) 0%, transparent 80%); }
+
+.cert-logo { font-size: 32px; color: rgb(197, 168, 128); margin-bottom: 12px; }
+
+.cert-title { font-family: "Times New Roman", Georgia, serif; font-size: 22px; font-weight: bold; letter-spacing: 0.1em; margin-bottom: 8px; }
+
+.cert-sub { font-style: italic; font-size: 12px; color: rgb(85, 85, 85); margin-bottom: 16px; }
+
+.cert-name { font-family: "Times New Roman", Georgia, serif; font-size: 28px; font-weight: bold; color: rgb(26, 26, 26); border-bottom: 1px solid rgb(197, 168, 128); padding-bottom: 4px; width: max-content; min-width: 200px; margin-bottom: 16px; }
+
+.cert-desc { font-size: 12px; color: rgb(85, 85, 85); margin-bottom: 4px; }
+
+.cert-course { font-size: 15px; font-weight: bold; color: rgb(26, 26, 26); margin-bottom: 20px; }
+
+.cert-date { font-size: 11px; color: rgb(102, 102, 102); margin-bottom: 24px; }
+
+.cert-signatures { width: 100%; display: flex; justify-content: space-between; padding: 0px 2rem; }
+
+.cert-signatures .sig { display: flex; flex-direction: column; width: 120px; }
+
+.sig-line { font-family: "Times New Roman", Georgia, serif; font-size: 13px; font-style: italic; border-bottom: 1.5px solid rgb(43, 43, 43); padding-bottom: 2px; margin-bottom: 4px; }
+
+.sig small { font-size: 9.5px; color: rgb(102, 102, 102); }
+
+.cert-input-row { margin-bottom: 1.5rem; max-width: 300px; margin-inline: auto; }
+
+.floating-theme-btn { position: fixed; bottom: 24px; right: 24px; width: 48px; height: 48px; border-radius: 50%; background-color: var(--primary); border-width: medium; border-style: none; border-color: currentcolor; border-image: none; color: rgb(255, 255, 255); font-size: 22px; display: flex; align-items: center; justify-content: center; cursor: pointer; box-shadow: var(--shadow-lg); z-index: 999; }
+
+.floating-theme-btn:hover { transform: scale(1.08); }
+
+.theme-panel { position: fixed; bottom: 84px; right: 24px; background-color: var(--bg-card); border: 1px solid var(--border-main); border-radius: var(--radius-lg); padding: 1.25rem; width: 220px; box-shadow: var(--shadow-lg); z-index: 998; display: none; }
+
+.theme-panel.active { display: block; animation: 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s 1 normal none running slideInUp; }
+
+@keyframes slideInUp { 
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.theme-panel h3 { font-family: var(--font-display); font-size: 14px; font-weight: 700; margin-bottom: 10px; }
+
+.theme-section { margin-bottom: 12px; }
+
+.theme-section:last-child { margin-bottom: 0px; }
+
+.theme-label { display: block; font-size: 10px; font-weight: 700; text-transform: uppercase; color: var(--text-light); letter-spacing: 0.05em; margin-bottom: 6px; }
+
+.appearance-toggles { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+
+.appearance-btn { background-color: var(--bg-nested); border: 1px solid var(--border-main); border-radius: 4px; color: var(--text-muted); font-size: 11px; font-weight: 600; padding: 4px; cursor: pointer; }
+
+.appearance-btn.active { background-color: var(--primary-light); border-color: var(--primary); color: var(--primary); }
+
+.accent-palette { display: flex; gap: 8px; }
+
+.accent-dot { width: 20px; height: 20px; border-radius: 50%; border: 2px solid transparent; cursor: pointer; }
+
+.accent-dot.active { border-color: var(--text-main); }
+
+.dot-blue { background-color: rgb(59, 130, 246); }
+
+.dot-purple { background-color: rgb(139, 92, 246); }
+
+.dot-emerald { background-color: rgb(16, 185, 129); }
+
+.dot-crimson { background-color: rgb(244, 63, 94); }
+
+.dot-amber { background-color: rgb(245, 158, 11); }
+
+@media (max-width: 1024px) {
+  .app-container { grid-template-columns: 1fr; }
+  .sidebar { display: none; }
+  .main-content { padding: 1.5rem 1.5rem 4rem; }
+  .floating-theme-btn { bottom: 16px; right: 16px; }
+  .theme-panel { bottom: 74px; right: 16px; }
+}
+
+@media (max-width: 768px) {
+  .lab-grid, .lab-grid-otp, .lab-grid-jwt { grid-template-columns: 1fr; }
+  .pros-cons { grid-template-columns: 1fr; }
+  .sso-visualizer-container { flex-direction: column; gap: 1.5rem; align-items: center; padding: 1.5rem; min-height: auto; }
+  #sso-node-idp { position: static; }
+  .vertical-channel, .sso-channel { display: none; }
+  .btn-grid { grid-template-columns: 1fr; }
+  .quiz-stats-cards { grid-template-columns: 1fr; }
+  .cert-signatures { flex-direction: column; align-items: center; gap: 1.5rem; }
+}
+
+.hidden { display: none !important; }
+------MultipartBoundary--lwbYYg7T4oZhJttiYNff9QIcu7m3gk6ivDhY8djebD----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-71dd0491-9231-4e10-8114-09f36a7519e6@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; padding: 0px; background: rgb(15, 23, 42); color: rgb(226, 232, 240); font-family: Inter, sans-serif; user-select: none; }
+
+@media print {
+  html, body { display: none !important; opacity: 0 !important; visibility: hidden !important; }
+  * { display: none !important; }
+}
+
+#reading-progress-bar { position: fixed; top: 0px; left: 0px; width: 0%; height: 4px; background: linear-gradient(90deg, rgb(8, 145, 178), rgb(0, 243, 255), rgb(168, 85, 247)); z-index: 99999; transition: width 0.1s linear; box-shadow: rgba(0, 243, 255, 0.6) 0px 0px 10px; }
+
+#reading-progress-label { position: fixed; top: 8px; right: 15px; font-family: "Share Tech Mono", monospace; font-size: 11px; color: rgb(0, 243, 255); background: rgba(0, 0, 0, 0.6); backdrop-filter: blur(8px); padding: 3px 10px; border-radius: 20px; border: 1px solid rgba(0, 243, 255, 0.3); z-index: 99999; letter-spacing: 1px; }
+
+.secure-container { width: 100%; max-width: 1200px; margin: 0px auto; padding: 60px 20px 40px; box-sizing: border-box; }
+
+.watermark { position: fixed; inset: 0px; pointer-events: none; z-index: 9998; opacity: 0.04; display: flex; flex-wrap: wrap; place-content: center; overflow: hidden; }
+
+.watermark span { font-size: 24px; font-weight: bold; padding: 50px; transform: rotate(-30deg); white-space: nowrap; }
+------MultipartBoundary--lwbYYg7T4oZhJttiYNff9QIcu7m3gk6ivDhY8djebD------
