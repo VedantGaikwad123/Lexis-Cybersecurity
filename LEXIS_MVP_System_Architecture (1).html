@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LEXIS — MVP System Architecture</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap"
+    rel="stylesheet">
+  <style>
+    :root {
+      --ink: #F8FAFC;
+      --panel: #FFFFFF;
+      --panel-2: #F1F5F9;
+      --line: #E2E8F0;
+      --text: #000000;
+      --text-dim: #000000;
+      --gold: #B45309;
+      --teal: #000000;
+      --rose: #000000;
+      --amber: #000000;
+      --blue: #000000;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background: var(--ink);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      padding: 48px 24px 64px;
+    }
+
+    .wrap {
+      max-width: 1380px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 28px;
+    }
+
+    .eyebrow {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--gold);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+
+    .eyebrow::before {
+      content: "";
+      width: 22px;
+      height: 1px;
+      background: var(--gold);
+      display: inline-block;
+    }
+
+    h1 {
+      font-family: 'Fraunces', serif;
+      font-weight: 600;
+      font-size: clamp(28px, 4vw, 42px);
+      line-height: 1.08;
+      margin: 0 0 10px;
+      letter-spacing: -0.01em;
+    }
+
+    h1 span {
+      color: var(--gold);
+      font-style: italic;
+    }
+
+    .sub {
+      color: var(--text-dim);
+      font-size: 15px;
+      max-width: 760px;
+      line-height: 1.6;
+      margin: 0;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 22px;
+      margin: 26px 0 8px;
+      padding: 16px 20px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12.5px;
+      color: var(--text-dim);
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .swatch {
+      width: 11px;
+      height: 11px;
+      border-radius: 3px;
+      flex: none;
+    }
+
+    .diagram-shell {
+      margin-top: 22px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 8px;
+    }
+
+    svg {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    /* SVG text via CSS classes */
+    .layer-tab {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      fill: var(--text-dim);
+    }
+
+    .box-title {
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 14.5px;
+      fill: var(--text);
+    }
+
+    .box-sub {
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 500;
+      font-size: 10px;
+      letter-spacing: 0.04em;
+      fill: var(--text-dim);
+    }
+
+    .box-desc {
+      font-family: 'Inter', sans-serif;
+      font-size: 11.5px;
+      fill: var(--text-dim);
+    }
+
+    .layer-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 600;
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      fill: var(--text-dim);
+    }
+
+    .band-title {
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      fill: var(--text);
+    }
+
+    .band-sub {
+      font-family: 'Inter', sans-serif;
+      font-size: 11.5px;
+      fill: var(--text-dim);
+    }
+
+    footer {
+      margin-top: 26px;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11.5px;
+      color: var(--text-dim);
+      border-top: 1px solid var(--line);
+      padding-top: 16px;
+    }
+
+    footer b {
+      color: var(--text);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+
+    <header>
+      <div class="eyebrow">LEXIS · Legal Expert Intelligence System</div>
+      <h1>MVP System Architecture <span>— 5 Core Agents</span></h1>
+      <p class="sub">Scoped release covering the five founding features: Rights Explainer, Document Drafter, Document
+        Analyzer, Scam Detection Engine, and Complaint Filing Guide. Each feature is traced end-to-end below in its own
+        accent colour, from citizen input through to the recipient authority.</p>
+    </header>
+
+    <div class="legend" id="legend"></div>
+
+    <div class="diagram-shell">
+      <svg id="diagram" viewBox="0 0 1380 1060" xmlns="http://www.w3.org/2000/svg"></svg>
+    </div>
+
+    <footer>
+      <span>LEXIS Project Synopsis — Final Year Computer Engineering, Sanjivani College of Engineering, Kopargaon</span>
+      <span><b>MVP Scope</b> · Shield Mode, Travel Law Diff &amp; Evidence Vault reserved for future phases</span>
+    </footer>
+
+  </div>
+
+  <script>
+    const NS = "http://www.w3.org/2000/svg";
+    const svg = document.getElementById("diagram");
+
+    const FEATURES = [
+      {
+        key: "rights",
+        color: "#000000",
+        feature: "Feature 1",
+        agentTitle: "Rights Agent",
+        agentDesc: ["Explains applicable rights", "in plain language"],
+        toolTitle: "Legal RAG Vector DB",
+        toolDesc: ["Indian statutes, sections", "& citizen rights (Qdrant)"],
+        outTitle: "Rights Explainer",
+        outDesc: ["Plain-language answer", "with cited law section"]
+      },
+      {
+        key: "draft",
+        color: "#000000",
+        feature: "Feature 2",
+        agentTitle: "Document Agent",
+        agentDesc: ["Asks 4–6 targeted", "questions, drafts document"],
+        toolTitle: ["Template &", "Clause Engine"],
+        toolDesc: ["RTI / notice / complaint", "templates + clause library"],
+        outTitle: "Document Drafter",
+        outDesc: ["Submission-ready legal", "document (PDF/DOCX)"]
+      },
+      {
+        key: "analyze",
+        color: "#000000",
+        feature: "Feature 3",
+        agentTitle: "Document Analyzer",
+        agentDesc: ["Extracts & rewrites clauses", "in plain Hindi / English"],
+        toolTitle: "OCR + Risk Classifier",
+        toolDesc: ["Text extraction & clause-", "level Green/Yellow/Red score"],
+        outTitle: "Document Analyzer",
+        outDesc: ["Risk-annotated copy of", "the uploaded document"]
+      },
+      {
+        key: "scam",
+        color: "#000000",
+        feature: "Feature 4",
+        agentTitle: "Scam Detection Agent",
+        agentDesc: ["Matches situation against", "known fraud patterns"],
+        toolTitle: "Scam Pattern Database",
+        toolDesc: ["Documented scams", "targeting Indian citizens"],
+        outTitle: "Scam Detection Engine",
+        outDesc: ["Alert + legal reality +", "recommended action"]
+      },
+      {
+        key: "filing",
+        color: "#000000",
+        feature: "Feature 5",
+        agentTitle: "Filing Guide Agent",
+        agentDesc: ["Identifies correct authority", "for the drafted complaint"],
+        toolTitle: ["Authority & Filing", "Directory"],
+        toolDesc: ["Portals, addresses, fees", "& documents checklist"],
+        outTitle: ["Complaint Filing", "Guide"],
+        outDesc: ["Where to file, cost,", "and what happens next"]
+      }
+    ];
+
+    // ---- layout constants ----
+    const W = 1380, H = 1060;
+    const colW = 208, gap = 15, startX = 220;
+    const colX = i => startX + i * (colW + gap);
+    const colCenter = i => colX(i) + colW / 2;
+    const CX = startX + (5 * colW + 4 * gap) / 2;
+
+    function el(tag, attrs, parent) {
+      const n = document.createElementNS(NS, tag);
+      for (const k in attrs) n.setAttribute(k, attrs[k]);
+      if (parent) parent.appendChild(n);
+      return n;
+    }
+
+    function text(x, y, str, cls, anchor) {
+      const t = el("text", { x, y, class: cls, "text-anchor": anchor || "middle" });
+      t.textContent = str;
+      svg.appendChild(t);
+      return t;
+    }
+    function multiline(x, y, lines, cls, lh, anchor) {
+      lines.forEach((l, i) => text(x, y + i * lh, l, cls, anchor));
+    }
+    // Renders a title that may be a single string or an array of lines (wrapped).
+    // Returns the y-coordinate immediately below the rendered title block.
+    function renderTitle(x, y, title, lh) {
+      if (Array.isArray(title)) {
+        multiline(x, y, title, "box-title", lh);
+        return y + (title.length - 1) * lh;
+      }
+      text(x, y, title, "box-title");
+      return y;
+    }
+
+    // defs: shadow + arrowheads
+    const defs = el("defs", {}, svg);
+    const filt = el("filter", { id: "shadow", x: "-30%", y: "-30%", width: "160%", height: "160%" }, defs);
+    el("feDropShadow", { dx: 0, dy: 4, stdDeviation: 8, "flood-color": "#0f172a", "flood-opacity": 0.06 }, filt);
+
+    function marker(id, color) {
+      const m = el("marker", { id, viewBox: "0 0 10 10", refX: 8, refY: 5, markerWidth: 7, markerHeight: 7, orient: "auto-start-reverse" }, defs);
+      el("path", { d: "M0,0 L10,5 L0,10 z", fill: color }, m);
+    }
+    marker("arrow-dim", "#000000");
+    FEATURES.forEach(f => marker("arrow-" + f.key, f.color));
+
+    function box(x, y, w, h, opts = {}) {
+      const {
+        fill = "var(--panel-2)", stroke = "#000000", accent = null, rx = 10, dashed = false
+      } = opts;
+      const g = el("g", {}, svg);
+      el("rect", {
+        x, y, width: w, height: h, rx,
+        fill, stroke, "stroke-width": 1.2,
+        filter: "url(#shadow)",
+        "stroke-dasharray": dashed ? "5,4" : "none"
+      }, g);
+      if (accent) {
+        el("rect", { x, y, width: 4, height: h, rx: 2, fill: accent }, g);
+      }
+      return g;
+    }
+
+    function line(x1, y1, x2, y2, color, markerId, dashed) {
+      el("path", {
+        d: `M${x1},${y1} L${x2},${y2}`,
+        stroke: color, "stroke-width": 1.6, fill: "none",
+        "marker-end": markerId ? `url(#${markerId})` : null,
+        "stroke-dasharray": dashed ? "4,4" : "none"
+      }, svg);
+    }
+
+    function curve(x1, y1, x2, y2, color, markerId) {
+      const midY = (y1 + y2) / 2;
+      el("path", {
+        d: `M${x1},${y1} C${x1},${midY} ${x2},${midY} ${x2},${y2}`,
+        stroke: color, "stroke-width": 1.5, fill: "none",
+        "marker-end": markerId ? `url(#${markerId})` : null
+      }, svg);
+    }
+
+    // ---------------------------------------------------------------
+    // L1 — USER LAYER
+    // ---------------------------------------------------------------
+    box(CX - 150, 40, 300, 65, { fill: "var(--panel-2)", accent: "#8892A6" });
+    text(CX, 66, "Indian Citizen", "box-title");
+    text(CX, 84, "text  ·  voice  ·  photo / document upload", "box-desc");
+    text(25, 75, "L1 · USER LAYER", "layer-label", "start");
+    line(CX, 105, CX, 148, "#000000", "arrow-dim");
+
+    // ---------------------------------------------------------------
+    // L2 — INPUT & PERCEPTION LAYER
+    // ---------------------------------------------------------------
+    box(startX - 10, 150, 1120, 88, { fill: "var(--panel)", accent: "#8892A6" });
+    text(CX, 178, "NLP  +  Intent Classification  +  OCR", "box-title");
+    multiline(CX, 198, [
+      "Sarvam AI / Whisper speech-to-text",
+      "Determines which of the 5 MVP features the citizen's query maps to, before any agent is invoked"
+    ], "box-desc", 17);
+    text(25, 195, "L2 · INPUT LAYER", "layer-label", "start");
+    line(CX, 238, CX, 278, "#000000", "arrow-dim");
+
+    // ---------------------------------------------------------------
+    // L3 — ORCHESTRATOR
+    // ---------------------------------------------------------------
+    box(CX - 350, 280, 700, 96, { fill: "var(--panel-2)", accent: "#000000" });
+    text(CX, 310, "Orchestrator Agent", "box-title");
+    multiline(CX, 330, [
+      "Perceives the situation → plans the response → routes to the correct",
+      "specialist agent(s) below → compiles and verifies the final reply"
+    ], "box-desc", 17);
+    text(25, 330, "L3 · ORCHESTRATOR LAYER", "layer-label", "start");
+
+    // fan-out from orchestrator to 5 agent columns
+    FEATURES.forEach((f, i) => curve(CX, 376, colCenter(i), 418, f.color, "arrow-" + f.key));
+
+    // ---------------------------------------------------------------
+    // L4 — SPECIALIST AGENT LAYER
+    // ---------------------------------------------------------------
+    FEATURES.forEach((f, i) => {
+      const x = colX(i);
+      box(x, 420, colW, 112, { fill: "var(--panel-2)", accent: f.color });
+      text(x + colW / 2, 440, f.feature, "box-sub");
+      const agentTitleEnd = renderTitle(x + colW / 2, 458, f.agentTitle, 15);
+      multiline(x + colW / 2, agentTitleEnd + 18, f.agentDesc, "box-desc", 15);
+      // connector agent -> tool
+      line(colCenter(i), 532, colCenter(i), 548, f.color, "arrow-" + f.key);
+    });
+    text(25, 475, "L4 · SPECIALIST AGENTS", "layer-label", "start");
+
+    // ---------------------------------------------------------------
+    // L5 — KNOWLEDGE & TOOL LAYER
+    // ---------------------------------------------------------------
+    FEATURES.forEach((f, i) => {
+      const x = colX(i);
+      box(x, 550, colW, 108, { fill: "var(--panel)", accent: f.color });
+      const toolTitleEnd = renderTitle(x + colW / 2, 572, f.toolTitle, 15);
+      multiline(x + colW / 2, toolTitleEnd + 20, f.toolDesc, "box-desc", 15);
+      // connector tool -> through memory band -> output
+      line(colCenter(i), 658, colCenter(i), 788, f.color, "arrow-" + f.key);
+    });
+    text(25, 605, "L5 · KNOWLEDGE & TOOLS", "layer-label", "start");
+
+    // ---------------------------------------------------------------
+    // L6 — MEMORY & REFLECTION BAND (cross-cutting)
+    // ---------------------------------------------------------------
+    box(startX - 10, 680, 1120, 86, { fill: "var(--panel)", stroke: "#000000", accent: "var(--text-dim)", dashed: true });
+    text(CX, 704, "MEMORY & REFLECTION LAYER (shared across all agents)", "band-title");
+    multiline(CX, 726, [
+      "Session memory keeps case context across turns  ·  self-reflection loop checks citations,",
+      "completeness & accuracy of every agent's output before it is released to the citizen"
+    ], "band-sub", 16);
+    text(25, 725, "L6 · REFLECTION LAYER", "layer-label", "start");
+
+    // ---------------------------------------------------------------
+    // L7 — OUTPUT LAYER
+    // ---------------------------------------------------------------
+    FEATURES.forEach((f, i) => {
+      const x = colX(i);
+      box(x, 790, colW, 108, { fill: "var(--panel-2)", accent: f.color });
+      const outTitleEnd = renderTitle(x + colW / 2, 812, f.outTitle, 15);
+      multiline(x + colW / 2, outTitleEnd + 20, f.outDesc, "box-desc", 15);
+    });
+    text(25, 845, "L7 · OUTPUT LAYER", "layer-label", "start");
+
+    // converge outputs -> recipient
+    FEATURES.forEach((f, i) => curve(colCenter(i), 898, CX, 936, f.color, "arrow-" + f.key));
+
+    // ---------------------------------------------------------------
+    // L8 — RECIPIENT / ACTION LAYER
+    // ---------------------------------------------------------------
+    box(CX - 450, 940, 900, 80, { fill: "var(--panel)", accent: "#8892A6" });
+    text(CX, 968, "Citizen reviews & confirms", "box-title");
+    text(CX, 988, "Consumer Forum  ·  RTI Portal  ·  Police Complaint  ·  Landlord / Employer / Company", "box-desc");
+    text(25, 980, "L8 · ACTION LAYER", "layer-label", "start");
+
+    // ---------------------------------------------------------------
+    // legend (HTML, outside svg)
+    // ---------------------------------------------------------------
+    const legend = document.getElementById("legend");
+    FEATURES.forEach(f => {
+      const item = document.createElement("div");
+      item.className = "legend-item";
+      item.innerHTML = `<span class="swatch" style="background:${f.color}"></span>${f.feature} — ${f.agentTitle}`;
+      legend.appendChild(item);
+    });
+  </script>
+</body>
+
+</html>
