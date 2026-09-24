@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Logged Out</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: white;
+    }
+
+    .card {
+      width: 90%;
+      max-width: 450px;
+      padding: 45px 35px;
+      text-align: center;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      border-radius: 20px;
+      backdrop-filter: blur(15px);
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
+    }
+
+    .icon {
+      width: 80px;
+      height: 80px;
+      margin: 0 auto 25px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      background: #22c55e;
+      font-size: 40px;
+    }
+
+    h1 {
+      font-size: 30px;
+      margin-bottom: 12px;
+    }
+
+    p {
+      color: #cbd5e1;
+      line-height: 1.6;
+      margin-bottom: 30px;
+    }
+
+    .download-btn {
+      display: inline-block;
+      padding: 14px 28px;
+      border-radius: 10px;
+      background: #3b82f6;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+      margin-bottom: 15px;
+    }
+
+    .download-btn:hover {
+      background: #2563eb;
+      transform: translateY(-2px);
+    }
+
+    .login-btn {
+      display: block;
+      color: #94a3b8;
+      text-decoration: none;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+
+    .login-btn:hover {
+      color: white;
+    }
+
+    .footer {
+      margin-top: 30px;
+      font-size: 12px;
+      color: #64748b;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="card">
+
+    <div class="icon">
+      ✓
+    </div>
+
+    <h1>Successfully Logged Out</h1>
+
+    <p>
+      Your session has been securely ended.
+      Thank you for using our application.
+    </p>
+
+    <!-- Change "download.zip" to your actual file -->
+    <a href="download.zip" download class="download-btn">
+      ⬇ Download File
+    </a>
+
+    <a href="login.html" class="login-btn">
+      ← Back to Login
+    </a>
+
+    <div class="footer">
+      © 2026 Your Application. All rights reserved.
+    </div>
+
+  </div>
+
+</body>
+</html>
