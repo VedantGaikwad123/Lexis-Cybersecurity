@@ -1,0 +1,19 @@
+{
+  "outputs": {
+    "sn": "C:\\Users\\gveda> nmap -sn 127.0.0.1\n\nStarting Nmap 7.80 ( https://nmap.org ) at 2026-08-24 11:25 IST\nNmap scan report for localhost (127.0.0.1)\nHost is up (0.00027s latency).\nNmap done: 1 IP address (1 host up) scanned in 0.15 seconds",
+    "sV": "C:\\Users\\gveda> nmap -sV 127.0.0.1\n\nStarting Nmap 7.80 ( https://nmap.org ) at 2026-08-24 11:26 IST\nNmap scan report for localhost (127.0.0.1)\nHost is up (0.00031s latency).\nNot shown: 995 closed ports\nPORT     STATE SERVICE        VERSION\n135/tcp  open  msrpc          Microsoft Windows RPC\n445/tcp  open  microsoft-ds   Windows 10 microsoft-ds (workgroup: WORKGROUP)\n3306/tcp open  mysql          MySQL 8.0.35\n5040/tcp open  unknown\n7680/tcp open  pando-pub?\n\nService Info: OS: Windows; CPE: cpe:/o:microsoft:windows\n\nService detection performed. Please report any incorrect results at https://nmap.org/submit/ .\nNmap done: 1 IP address (1 host up) scanned in 12.43 seconds",
+    "A": "C:\\Users\\gveda> nmap -A 127.0.0.1\n\nStarting Nmap 7.80 ( https://nmap.org ) at 2026-08-24 11:27 IST\nNmap scan report for localhost (127.0.0.1)\nHost is up (0.00018s latency).\nNot shown: 995 closed ports\nPORT     STATE SERVICE        VERSION\n135/tcp  open  msrpc          Microsoft Windows RPC\n445/tcp  open  microsoft-ds   Windows 10 microsoft-ds (workgroup: WORKGROUP)\n3306/tcp open  mysql          MySQL 8.0.35\n|   MySQL: Protocol version 10\n|   Version: 8.0.35\n|_  Status: Autocommit\n5040/tcp open  unknown\n7680/tcp open  pando-pub?\n\nHost script results:\n| smb2-security-mode:\n|   2.02:\n|_    Message signing enabled but not required\n| smb2-time:\n|   date: 2026-08-24T05:57:31\n|_  start_date: N/A\n\nOS details: Microsoft Windows 10 1607-1703 (93%)\nNetwork Distance: 0 hops\n\nOS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .\nNmap done: 1 IP address (1 host up) scanned in 28.67 seconds"
+  },
+  "screenshots": {
+    "sn": "C:\\Users\\gveda\\.gemini\\antigravity-ide\\brain\\01053aff-77e7-4988-8397-0f2d32d6e3b3\\nmap_sn_screenshot_1787551447993.png",
+    "sV": "C:\\Users\\gveda\\.gemini\\antigravity-ide\\brain\\01053aff-77e7-4988-8397-0f2d32d6e3b3\\nmap_sv_screenshot_1787551466855.png",
+    "A":  "C:\\Users\\gveda\\.gemini\\antigravity-ide\\brain\\01053aff-77e7-4988-8397-0f2d32d6e3b3\\nmap_a_screenshot_1787551483881.png"
+  },
+  "open_ports": [
+    ["135", "TCP", "Open", "msrpc",         "Microsoft Windows RPC",            "MEDIUM"],
+    ["445", "TCP", "Open", "microsoft-ds",  "SMB / Windows File Sharing",       "HIGH"],
+    ["3306","TCP", "Open", "mysql",          "MySQL Database Server 8.0.35",     "HIGH"],
+    ["5040","TCP", "Open", "unknown",        "Unknown Windows Service",           "MEDIUM"],
+    ["7680","TCP", "Open", "pando-pub",      "Windows Delivery Optimization",    "LOW"]
+  ]
+}
